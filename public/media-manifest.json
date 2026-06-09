@@ -1,12 +1,4045 @@
 {
   "v": 1,
-  "generatedAt": "2026-06-09T10:24:25.385Z",
-  "count": 1,
+  "generatedAt": "2026-06-09T10:42:29.075Z",
+  "count": 673,
   "images": [
+    {
+      "path": "/encyclopedia/_shared/img/goland-debug-goroutines.png",
+      "name": "goland-debug-goroutines.png",
+      "article": "_shared/img",
+      "bytes": 113375
+    },
+    {
+      "path": "/encyclopedia/_shared/img/intellij-idea-spring-petclinic.png",
+      "name": "intellij-idea-spring-petclinic.png",
+      "article": "_shared/img",
+      "bytes": 100164
+    },
+    {
+      "path": "/encyclopedia/_shared/img/intellij-idea-ui-guided-tour.png",
+      "name": "intellij-idea-ui-guided-tour.png",
+      "article": "_shared/img",
+      "bytes": 112737
+    },
+    {
+      "path": "/encyclopedia/_shared/img/it-universe-architecture.png",
+      "name": "it-universe-architecture.png",
+      "article": "_shared/img",
+      "bytes": 444731
+    },
+    {
+      "path": "/encyclopedia/_shared/img/it-universe-three-tier.png",
+      "name": "it-universe-three-tier.png",
+      "article": "_shared/img",
+      "bytes": 67375
+    },
+    {
+      "path": "/encyclopedia/_shared/img/visual-studio-calculator-csharp.png",
+      "name": "visual-studio-calculator-csharp.png",
+      "article": "_shared/img",
+      "bytes": 68373
+    },
+    {
+      "path": "/encyclopedia/_shared/img/xcode-landmarks-swiftui-preview.png",
+      "name": "xcode-landmarks-swiftui-preview.png",
+      "article": "_shared/img",
+      "bytes": 104537
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-04-kak-vidyat-it-obychnye-lyudi/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-04-kak-vidyat-it-obychnye-lyudi",
+      "bytes": 79395
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-04-kak-vidyat-it-obychnye-lyudi/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-04-kak-vidyat-it-obychnye-lyudi",
+      "bytes": 122933
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-04-kak-vidyat-it-obychnye-lyudi/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-04-kak-vidyat-it-obychnye-lyudi",
+      "bytes": 118779
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-04-kak-vidyat-it-obychnye-lyudi/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-04-kak-vidyat-it-obychnye-lyudi",
+      "bytes": 62634
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-04-kak-vidyat-it-obychnye-lyudi/MESM.jpg",
+      "name": "MESM.jpg",
+      "article": "1-basics/1-04-kak-vidyat-it-obychnye-lyudi",
+      "bytes": 28901
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-05-preduprezhdenie/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-05-preduprezhdenie",
+      "bytes": 103083
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-05-preduprezhdenie/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-05-preduprezhdenie",
+      "bytes": 81012
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 127095
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-10.png",
+      "name": "image-10.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 931839
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-11.png",
+      "name": "image-11.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 1144230
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-12.jpg",
+      "name": "image-12.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 364954
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 2089924
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 2013411
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-4.png",
+      "name": "image-4.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 1454225
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-5.jpg",
+      "name": "image-5.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 238937
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-6.png",
+      "name": "image-6.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 1130564
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-7.png",
+      "name": "image-7.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 1058101
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-8.png",
+      "name": "image-8.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 811942
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-9.png",
+      "name": "image-9.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 1077333
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 34705
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-09-dannye-i-informatsiya/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-09-dannye-i-informatsiya",
+      "bytes": 194764
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-09-dannye-i-informatsiya/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-09-dannye-i-informatsiya",
+      "bytes": 17550
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-09-dannye-i-informatsiya/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-09-dannye-i-informatsiya",
+      "bytes": 1860
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-09-dannye-i-informatsiya/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-09-dannye-i-informatsiya",
+      "bytes": 115832
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-10-bazovye-operatsii-s-dannymi/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-10-bazovye-operatsii-s-dannymi",
+      "bytes": 20177
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 229450
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-10.png",
+      "name": "image-10.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 47883
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-11.png",
+      "name": "image-11.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 28909
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-12.png",
+      "name": "image-12.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 41759
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-13.png",
+      "name": "image-13.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 27793
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-14.png",
+      "name": "image-14.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 15094
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-15.png",
+      "name": "image-15.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 57006
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-16.png",
+      "name": "image-16.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 23266
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-17.png",
+      "name": "image-17.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 11695
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-18.png",
+      "name": "image-18.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 24176
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-19.png",
+      "name": "image-19.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 21582
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 55065
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-20.png",
+      "name": "image-20.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 16155
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-21.png",
+      "name": "image-21.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 147611
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-22.png",
+      "name": "image-22.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 8821
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-23.png",
+      "name": "image-23.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 46063
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 45475
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-4.png",
+      "name": "image-4.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 56117
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-5.png",
+      "name": "image-5.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 9191
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-6.png",
+      "name": "image-6.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 33258
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-7.png",
+      "name": "image-7.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 85752
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-8.png",
+      "name": "image-8.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 43816
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-9.png",
+      "name": "image-9.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 7568
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image.jpg",
+      "name": "image.jpg",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 37224
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 17243
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-18-kompyuternye-igry/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-18-kompyuternye-igry",
+      "bytes": 435197
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-18-kompyuternye-igry/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-18-kompyuternye-igry",
+      "bytes": 33368
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-19-programma/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-19-programma",
+      "bytes": 53678
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-19-programma/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-19-programma",
+      "bytes": 37425
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-19-programma/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-19-programma",
+      "bytes": 39619
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-19-programma/image-4.png",
+      "name": "image-4.png",
+      "article": "1-basics/1-19-programma",
+      "bytes": 7363
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-19-programma/image-5.png",
+      "name": "image-5.png",
+      "article": "1-basics/1-19-programma",
+      "bytes": 38648
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-19-programma/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-19-programma",
+      "bytes": 64636
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 65867
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 50109
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 33064
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/image-4.png",
+      "name": "image-4.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 28295
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 32982
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-22-kommunikatsiya-i-obschenie/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-22-kommunikatsiya-i-obschenie",
+      "bytes": 19069
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-22-kommunikatsiya-i-obschenie/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-22-kommunikatsiya-i-obschenie",
+      "bytes": 11577
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 38749
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 60163
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 41252
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-4.png",
+      "name": "image-4.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 41452
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-5.png",
+      "name": "image-5.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 61056
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-6.png",
+      "name": "image-6.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 54035
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-7.png",
+      "name": "image-7.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 31955
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-8.png",
+      "name": "image-8.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 29474
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-24-osnovnye-yazyki",
+      "bytes": 109101
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 3513
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-10.png",
+      "name": "image-10.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 2018
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-11.png",
+      "name": "image-11.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 5121
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-12.png",
+      "name": "image-12.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 5272
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-13.png",
+      "name": "image-13.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 3180
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-14.png",
+      "name": "image-14.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 3016
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-15.png",
+      "name": "image-15.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 5804
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-16.png",
+      "name": "image-16.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 7887
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-17.png",
+      "name": "image-17.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 7083
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-18.png",
+      "name": "image-18.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 27757
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-19.png",
+      "name": "image-19.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 9468
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-2.png",
+      "name": "image-2.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 7212
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-20.png",
+      "name": "image-20.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 6734
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-21.png",
+      "name": "image-21.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 8696
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-3.png",
+      "name": "image-3.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 998
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-4.png",
+      "name": "image-4.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 1619
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-5.png",
+      "name": "image-5.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 2283
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-6.png",
+      "name": "image-6.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 3027
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-7.png",
+      "name": "image-7.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 1991
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-8.png",
+      "name": "image-8.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 2591
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image-9.png",
+      "name": "image-9.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 2031
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-25-interfeys/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-25-interfeys",
+      "bytes": 1054
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-26-karera-v-it-i-mify/image-1.png",
+      "name": "image-1.png",
+      "article": "1-basics/1-26-karera-v-it-i-mify",
+      "bytes": 15147
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-26-karera-v-it-i-mify/image.png",
+      "name": "image.png",
+      "article": "1-basics/1-26-karera-v-it-i-mify",
+      "bytes": 23390
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-1.png",
+      "name": "image-1.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 48758
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-10.png",
+      "name": "image-10.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 24264
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-11.png",
+      "name": "image-11.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 135286
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-12.png",
+      "name": "image-12.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 76883
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-13.png",
+      "name": "image-13.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 264109
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-14.png",
+      "name": "image-14.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 368943
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-15.png",
+      "name": "image-15.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 315882
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-16.png",
+      "name": "image-16.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 192045
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-17.png",
+      "name": "image-17.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 36402
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-18.png",
+      "name": "image-18.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 696707
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-19.png",
+      "name": "image-19.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 137053
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-2.png",
+      "name": "image-2.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 36814
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-20.png",
+      "name": "image-20.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 35779
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-3.png",
+      "name": "image-3.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 2192
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-4.png",
+      "name": "image-4.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 134787
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-5.png",
+      "name": "image-5.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 2096
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-6.png",
+      "name": "image-6.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 103607
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-7.png",
+      "name": "image-7.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 230228
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-8.png",
+      "name": "image-8.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 102834
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-9.png",
+      "name": "image-9.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 78023
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 57620
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-02-platformy/image-1.png",
+      "name": "image-1.png",
+      "article": "2-system-network/2-02-platformy",
+      "bytes": 36752
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-02-platformy/image-2.png",
+      "name": "image-2.png",
+      "article": "2-system-network/2-02-platformy",
+      "bytes": 6813
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-02-platformy/image-3.png",
+      "name": "image-3.png",
+      "article": "2-system-network/2-02-platformy",
+      "bytes": 6386
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-02-platformy/image-4.png",
+      "name": "image-4.png",
+      "article": "2-system-network/2-02-platformy",
+      "bytes": 19100
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-02-platformy/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-02-platformy",
+      "bytes": 38748
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-1.png",
+      "name": "image-1.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 30867
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-10.png",
+      "name": "image-10.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 65451
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-2.png",
+      "name": "image-2.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 43442
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-3.png",
+      "name": "image-3.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 63027
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-4.png",
+      "name": "image-4.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 61072
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-5.png",
+      "name": "image-5.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 46421
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-6.png",
+      "name": "image-6.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 89400
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-7.png",
+      "name": "image-7.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 69752
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-8.png",
+      "name": "image-8.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 37938
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image-9.png",
+      "name": "image-9.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 62809
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-03-set-i-internet/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-03-set-i-internet",
+      "bytes": 29865
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/image-1.png",
+      "name": "image-1.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 42551
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/image-2.png",
+      "name": "image-2.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 15083
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 32528
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-1.png",
+      "name": "image-1.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 10742
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-10.png",
+      "name": "image-10.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 96419
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-2.png",
+      "name": "image-2.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 37787
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-3.png",
+      "name": "image-3.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 14276
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-4.png",
+      "name": "image-4.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 30443
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-5.png",
+      "name": "image-5.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 86264
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-6.png",
+      "name": "image-6.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 10184
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-7.png",
+      "name": "image-7.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 2296
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-8.png",
+      "name": "image-8.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 7395
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image-9.png",
+      "name": "image-9.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 13371
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 10484
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/image-1.png",
+      "name": "image-1.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 61560
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/image-2.png",
+      "name": "image-2.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 80298
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/image-3.png",
+      "name": "image-3.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 82980
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/image-4.png",
+      "name": "image-4.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 42935
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/image-5.png",
+      "name": "image-5.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 57927
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 66549
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/prometheus-grafana-praktikum/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie/prometheus-grafana-praktikum",
+      "bytes": 57452
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-07-tehnicheskaya-podderzhka/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-07-tehnicheskaya-podderzhka",
+      "bytes": 75090
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-1.png",
+      "name": "image-1.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 4566
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-10.png",
+      "name": "image-10.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 43845
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-11.png",
+      "name": "image-11.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 47291
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-12.png",
+      "name": "image-12.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 70551
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-13.png",
+      "name": "image-13.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 31370
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-14.png",
+      "name": "image-14.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 64457
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-15.png",
+      "name": "image-15.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 11149
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-16.png",
+      "name": "image-16.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 29342
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-17.png",
+      "name": "image-17.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 29684
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-18.png",
+      "name": "image-18.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 30163
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-19.png",
+      "name": "image-19.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 43507
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-2.png",
+      "name": "image-2.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 5334
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-20.png",
+      "name": "image-20.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 32379
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-21.png",
+      "name": "image-21.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 41876
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-22.png",
+      "name": "image-22.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 32673
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-23.png",
+      "name": "image-23.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 31643
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-24.png",
+      "name": "image-24.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 19728
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-25.png",
+      "name": "image-25.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 9295
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-26.png",
+      "name": "image-26.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 9581
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-27.png",
+      "name": "image-27.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 31389
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-28.png",
+      "name": "image-28.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 22977
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-29.png",
+      "name": "image-29.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 67517
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-3.png",
+      "name": "image-3.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 3125
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-30.png",
+      "name": "image-30.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 19163
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-31.jpg",
+      "name": "image-31.jpg",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 24438
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-4.png",
+      "name": "image-4.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 43423
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-5.png",
+      "name": "image-5.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 23904
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-6.png",
+      "name": "image-6.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 8828
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-7.png",
+      "name": "image-7.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 15772
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-8.png",
+      "name": "image-8.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 10876
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-9.png",
+      "name": "image-9.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 50731
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya",
+      "bytes": 38633
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-10-zhelezo/image.png",
+      "name": "image.png",
+      "article": "2-system-network/2-10-zhelezo",
+      "bytes": 4802293
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-01-prodvinutye-operatsii-s-dannymi/image-1.png",
+      "name": "image-1.png",
+      "article": "3-data-markup/3-01-prodvinutye-operatsii-s-dannymi",
+      "bytes": 11282
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-01-prodvinutye-operatsii-s-dannymi/image-2.png",
+      "name": "image-2.png",
+      "article": "3-data-markup/3-01-prodvinutye-operatsii-s-dannymi",
+      "bytes": 19775
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-01-prodvinutye-operatsii-s-dannymi/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-01-prodvinutye-operatsii-s-dannymi",
+      "bytes": 9497
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-02-struktury-dannyh/image-1.png",
+      "name": "image-1.png",
+      "article": "3-data-markup/3-02-struktury-dannyh",
+      "bytes": 82309
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-02-struktury-dannyh/image-2.png",
+      "name": "image-2.png",
+      "article": "3-data-markup/3-02-struktury-dannyh",
+      "bytes": 13192
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-02-struktury-dannyh/image-3.png",
+      "name": "image-3.png",
+      "article": "3-data-markup/3-02-struktury-dannyh",
+      "bytes": 18956
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-02-struktury-dannyh/image-4.png",
+      "name": "image-4.png",
+      "article": "3-data-markup/3-02-struktury-dannyh",
+      "bytes": 14647
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-02-struktury-dannyh/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-02-struktury-dannyh",
+      "bytes": 16841
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-05-osnovy-baz-dannyh/image-1.png",
+      "name": "image-1.png",
+      "article": "3-data-markup/3-05-osnovy-baz-dannyh",
+      "bytes": 40307
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-05-osnovy-baz-dannyh/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-05-osnovy-baz-dannyh",
+      "bytes": 14208
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-06-nosql/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-06-nosql",
+      "bytes": 90863
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image-1.png",
+      "name": "image-1.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 90081
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image-2.png",
+      "name": "image-2.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 14110
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image-3.png",
+      "name": "image-3.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 14758
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image-4.png",
+      "name": "image-4.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 14171
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image-5.png",
+      "name": "image-5.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 14221
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image-6.png",
+      "name": "image-6.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 13517
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image-7.png",
+      "name": "image-7.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 38027
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-07-sql/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-07-sql",
+      "bytes": 10191
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-09-html/image-1.png",
+      "name": "image-1.png",
+      "article": "3-data-markup/3-09-html",
+      "bytes": 4870
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-09-html/image-2.png",
+      "name": "image-2.png",
+      "article": "3-data-markup/3-09-html",
+      "bytes": 3365
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-09-html/image-3.png",
+      "name": "image-3.png",
+      "article": "3-data-markup/3-09-html",
+      "bytes": 934447
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-09-html/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-09-html",
+      "bytes": 1546
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-1.png",
+      "name": "image-1.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 97942
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-10.png",
+      "name": "image-10.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 5243
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-11.png",
+      "name": "image-11.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 1164
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-12.png",
+      "name": "image-12.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 1438
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-13.png",
+      "name": "image-13.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 1213
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-14.png",
+      "name": "image-14.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 5499
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-15.png",
+      "name": "image-15.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 4810
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-16.png",
+      "name": "image-16.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 1350
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-17.png",
+      "name": "image-17.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 1505
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-18.png",
+      "name": "image-18.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 6176
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-19.png",
+      "name": "image-19.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 5695
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-2.png",
+      "name": "image-2.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 63329
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-20.png",
+      "name": "image-20.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 4470
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-21.png",
+      "name": "image-21.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 13072
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-3.png",
+      "name": "image-3.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 2264
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-4.png",
+      "name": "image-4.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 5170
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-5.png",
+      "name": "image-5.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 2007
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-6.png",
+      "name": "image-6.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 5018
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-7.png",
+      "name": "image-7.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 5754
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-8.png",
+      "name": "image-8.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 5422
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image-9.png",
+      "name": "image-9.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 4954
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-10-css/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-10-css",
+      "bytes": 6988
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-11-analiz-dannyh/image-1.png",
+      "name": "image-1.png",
+      "article": "3-data-markup/3-11-analiz-dannyh",
+      "bytes": 75545
+    },
+    {
+      "path": "/encyclopedia/3-data-markup/3-11-analiz-dannyh/image.png",
+      "name": "image.png",
+      "article": "3-data-markup/3-11-analiz-dannyh",
+      "bytes": 82108
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-01-algoritmy/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-01-algoritmy",
+      "bytes": 12020
+    },
     {
       "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/617/media-pilot-test.png",
       "name": "media-pilot-test.png",
-      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/617"
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/617",
+      "bytes": 18889
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 71414
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 71913
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 85216
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 61908
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 44303
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 44985
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 88656
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet",
+      "bytes": 68728
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 2982
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 19355
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 2783
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 3813
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 21570
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 78677
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 27739
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image-8.png",
+      "name": "image-8.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 6976
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-04-proekt-i-freymvorki/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-04-proekt-i-freymvorki",
+      "bytes": 22064
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 68957
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 56250
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 44753
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 56747
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 61173
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 38998
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 50755
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image-8.png",
+      "name": "image-8.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 50585
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-05-asinhronnost/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-05-asinhronnost",
+      "bytes": 34437
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 72242
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-10.png",
+      "name": "image-10.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 70044
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-11.png",
+      "name": "image-11.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 35649
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 44289
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 40478
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 82137
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 74960
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 51222
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 64777
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-8.png",
+      "name": "image-8.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 44830
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image-9.png",
+      "name": "image-9.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 1056
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-08-oop/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-08-oop",
+      "bytes": 81787
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 33502
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 21158
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 23462
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 20849
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 83681
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 53204
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 84347
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-10-orm-i-rabota-s-dannymi/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-10-orm-i-rabota-s-dannymi",
+      "bytes": 71813
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 19195
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-10.png",
+      "name": "image-10.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 921
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-11.png",
+      "name": "image-11.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 907
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-12.png",
+      "name": "image-12.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 3832
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-13.png",
+      "name": "image-13.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 19539
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-14.png",
+      "name": "image-14.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 1241
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-15.png",
+      "name": "image-15.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 3025
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-16.png",
+      "name": "image-16.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 1695
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-17.png",
+      "name": "image-17.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 17462
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-18.png",
+      "name": "image-18.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 1280
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-19.png",
+      "name": "image-19.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 56718
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 1585
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-20.png",
+      "name": "image-20.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 8163
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-21.png",
+      "name": "image-21.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 40435
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 2741
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 1419
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 9908
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 694
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 7436
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-8.png",
+      "name": "image-8.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 3413
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-11-desktopnye-prilozheniya/image-9.png",
+      "name": "image-9.png",
+      "article": "4-code-dev/4-11-desktopnye-prilozheniya",
+      "bytes": 7656
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 30066
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-10.png",
+      "name": "image-10.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 23159
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-11.png",
+      "name": "image-11.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 51918
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-12.png",
+      "name": "image-12.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 23233
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-13.png",
+      "name": "image-13.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 16176
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-14.png",
+      "name": "image-14.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 74827
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-15.png",
+      "name": "image-15.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 169768
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-16.png",
+      "name": "image-16.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 381743
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-17.png",
+      "name": "image-17.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 21921
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-18.png",
+      "name": "image-18.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 76535
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-19.png",
+      "name": "image-19.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 4433
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 20444
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-20.png",
+      "name": "image-20.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 28138
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-21.png",
+      "name": "image-21.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 21994
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-22.png",
+      "name": "image-22.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 43037
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 23825
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 17824
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 18435
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 3182
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 6769
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-8.png",
+      "name": "image-8.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 11889
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image-9.png",
+      "name": "image-9.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 3065
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-13-osnovy-raboty-s-git/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-13-osnovy-raboty-s-git",
+      "bytes": 69680
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-1.png",
+      "name": "image-1.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 43738
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-10.png",
+      "name": "image-10.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 66466
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-11.png",
+      "name": "image-11.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 8605
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-12.png",
+      "name": "image-12.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 11024
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-13.png",
+      "name": "image-13.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 55016
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-14.png",
+      "name": "image-14.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 17737
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-15.png",
+      "name": "image-15.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 60337
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-16.png",
+      "name": "image-16.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 4862
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-17.png",
+      "name": "image-17.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 143759
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-18.png",
+      "name": "image-18.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 15998
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-19.png",
+      "name": "image-19.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 3608
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-2.png",
+      "name": "image-2.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 36287
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-20.png",
+      "name": "image-20.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 5117
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-21.png",
+      "name": "image-21.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 25943
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-22.png",
+      "name": "image-22.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 23190
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-23.png",
+      "name": "image-23.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 27766
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-24.png",
+      "name": "image-24.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 194116
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-25.png",
+      "name": "image-25.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 58575
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-3.png",
+      "name": "image-3.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 40711
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-4.png",
+      "name": "image-4.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 8494
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-5.png",
+      "name": "image-5.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 6741
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-6.png",
+      "name": "image-6.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 7230
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-7.png",
+      "name": "image-7.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 9434
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-8.png",
+      "name": "image-8.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 7391
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-9.png",
+      "name": "image-9.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 10138
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image-devtools-ui.png",
+      "name": "image-devtools-ui.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 81771
+    },
+    {
+      "path": "/encyclopedia/4-code-dev/4-14-razrabotka-i-otladka/image.png",
+      "name": "image.png",
+      "article": "4-code-dev/4-14-razrabotka-i-otladka",
+      "bytes": 37255
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 32673
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-10.png",
+      "name": "image-10.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 12843
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-11.png",
+      "name": "image-11.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 32778
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-12.png",
+      "name": "image-12.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 11378
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-13.png",
+      "name": "image-13.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 71191
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-14.png",
+      "name": "image-14.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 2096
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-15.png",
+      "name": "image-15.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 10625
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-16.png",
+      "name": "image-16.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 8637
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-17.png",
+      "name": "image-17.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 29496
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 57452
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-3.png",
+      "name": "image-3.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 17541
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-4.png",
+      "name": "image-4.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 30899
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-5.png",
+      "name": "image-5.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 15372
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-6.png",
+      "name": "image-6.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 71561
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-7.png",
+      "name": "image-7.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 46309
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-8.png",
+      "name": "image-8.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 17490
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image-9.png",
+      "name": "image-9.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 65972
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-01-javascript/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-01-javascript",
+      "bytes": 12244
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-02-python/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-02-python",
+      "bytes": 35946
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-02-python/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-02-python",
+      "bytes": 26751
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-02-python/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-02-python",
+      "bytes": 13265
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 9433
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-10.png",
+      "name": "image-10.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 1092
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-11.png",
+      "name": "image-11.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 1083
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-12.png",
+      "name": "image-12.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 1490
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-13.png",
+      "name": "image-13.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 2523
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-14.png",
+      "name": "image-14.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 16855
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-15.png",
+      "name": "image-15.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 16801
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-16.png",
+      "name": "image-16.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 15274
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-17.png",
+      "name": "image-17.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 51099
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-18.png",
+      "name": "image-18.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 5673
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-19.png",
+      "name": "image-19.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 7582
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 2054
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-20.png",
+      "name": "image-20.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 21309
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-21.png",
+      "name": "image-21.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 33658
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-3.png",
+      "name": "image-3.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 13252
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-4.png",
+      "name": "image-4.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 6876
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-5.png",
+      "name": "image-5.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 11883
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-6.png",
+      "name": "image-6.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 2981
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-7.png",
+      "name": "image-7.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 6106
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-8.png",
+      "name": "image-8.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 1900
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image-9.png",
+      "name": "image-9.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 1110
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-03-java/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-03-java",
+      "bytes": 50586
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-04-platforma-dotnet/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-04-platforma-dotnet",
+      "bytes": 94179
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-04-platforma-dotnet/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-04-platforma-dotnet",
+      "bytes": 71274
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 13331
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-10.png",
+      "name": "image-10.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 33587
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-11.png",
+      "name": "image-11.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 20600
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-12.png",
+      "name": "image-12.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 32374
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-13.png",
+      "name": "image-13.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 33641
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-14.png",
+      "name": "image-14.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 10572
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-15.png",
+      "name": "image-15.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 21265
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-16.png",
+      "name": "image-16.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 21004
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-17.png",
+      "name": "image-17.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 13910
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 1180
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-3.png",
+      "name": "image-3.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 8915
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-4.png",
+      "name": "image-4.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 8858
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-5.png",
+      "name": "image-5.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 5343
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-6.png",
+      "name": "image-6.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 5223
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-7.png",
+      "name": "image-7.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 10719
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-8.png",
+      "name": "image-8.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 3048
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image-9.png",
+      "name": "image-9.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 32526
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-05-csharp/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-05-csharp",
+      "bytes": 21678
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 4824
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 11408
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-3.png",
+      "name": "image-3.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 14024
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-4.png",
+      "name": "image-4.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 26392
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-5.png",
+      "name": "image-5.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 13766
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-6.png",
+      "name": "image-6.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 7505
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-7.png",
+      "name": "image-7.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 32663
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image-8.png",
+      "name": "image-8.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 26950
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-06-cpp/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-06-cpp",
+      "bytes": 11267
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 4155
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-10.png",
+      "name": "image-10.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 22349
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-11.png",
+      "name": "image-11.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 23615
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-12.png",
+      "name": "image-12.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 14786
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-13.png",
+      "name": "image-13.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 60984
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-14.png",
+      "name": "image-14.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 2636
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 240819
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-3.png",
+      "name": "image-3.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 3703
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-4.png",
+      "name": "image-4.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 5736
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-5.png",
+      "name": "image-5.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 33047
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-6.png",
+      "name": "image-6.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 6339
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-7.png",
+      "name": "image-7.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 13481
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-8.png",
+      "name": "image-8.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 134483
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image-9.png",
+      "name": "image-9.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 7064
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-07-php/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-07-php",
+      "bytes": 46248
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 83265
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-10.png",
+      "name": "image-10.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 96410
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-11.png",
+      "name": "image-11.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 25201
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-12.png",
+      "name": "image-12.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 30905
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-13.png",
+      "name": "image-13.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 41924
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 114588
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-3.png",
+      "name": "image-3.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 24298
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-4.png",
+      "name": "image-4.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 46081
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-5.png",
+      "name": "image-5.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 24998
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-6.png",
+      "name": "image-6.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 27951
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-7.png",
+      "name": "image-7.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 12184
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-8.png",
+      "name": "image-8.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 22580
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image-9.png",
+      "name": "image-9.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 18361
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-08-smalltalk/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-08-smalltalk",
+      "bytes": 6664
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-09-kotlin/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-09-kotlin",
+      "bytes": 11204
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-09-kotlin/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-09-kotlin",
+      "bytes": 2794
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-12-groovy/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-12-groovy",
+      "bytes": 9089
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-15-lua-i-luau/image-1.png",
+      "name": "image-1.png",
+      "article": "5-languages/5-15-lua-i-luau",
+      "bytes": 1937408
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-15-lua-i-luau/image-2.png",
+      "name": "image-2.png",
+      "article": "5-languages/5-15-lua-i-luau",
+      "bytes": 18783
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-15-lua-i-luau/image-3.png",
+      "name": "image-3.png",
+      "article": "5-languages/5-15-lua-i-luau",
+      "bytes": 22873
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-15-lua-i-luau/image-4.png",
+      "name": "image-4.png",
+      "article": "5-languages/5-15-lua-i-luau",
+      "bytes": 7287
+    },
+    {
+      "path": "/encyclopedia/5-languages/5-15-lua-i-luau/image.png",
+      "name": "image.png",
+      "article": "5-languages/5-15-lua-i-luau",
+      "bytes": 32425
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image-1.png",
+      "name": "image-1.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 34749
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image-2.png",
+      "name": "image-2.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 41995
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image-3.png",
+      "name": "image-3.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 43239
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image-4.png",
+      "name": "image-4.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 40925
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image-5.png",
+      "name": "image-5.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 60273
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image-6.png",
+      "name": "image-6.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 40340
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image-7.png",
+      "name": "image-7.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 44073
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-01-vvedenie-v-ii/image.png",
+      "name": "image.png",
+      "article": "6-ai/6-01-vvedenie-v-ii",
+      "bytes": 31009
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-02-mashinnoe-obuchenie/image-18.png",
+      "name": "image-18.png",
+      "article": "6-ai/6-02-mashinnoe-obuchenie",
+      "bytes": 68948
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-10.png",
+      "name": "image-10.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 39659
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-11.png",
+      "name": "image-11.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 37295
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-12.png",
+      "name": "image-12.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 33875
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-13.png",
+      "name": "image-13.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 45058
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-14.png",
+      "name": "image-14.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 38287
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-15.png",
+      "name": "image-15.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 50616
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-16.png",
+      "name": "image-16.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 53545
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-17.png",
+      "name": "image-17.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 50170
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-8.png",
+      "name": "image-8.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 54683
+    },
+    {
+      "path": "/encyclopedia/6-ai/6-03-neyroseti/image-9.png",
+      "name": "image-9.png",
+      "article": "6-ai/6-03-neyroseti",
+      "bytes": 58462
+    },
+    {
+      "path": "/encyclopedia/7-project/7-02-komanda-i-upravlenie/image-1.png",
+      "name": "image-1.png",
+      "article": "7-project/7-02-komanda-i-upravlenie",
+      "bytes": 8331
+    },
+    {
+      "path": "/encyclopedia/7-project/7-02-komanda-i-upravlenie/image.png",
+      "name": "image.png",
+      "article": "7-project/7-02-komanda-i-upravlenie",
+      "bytes": 8819
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image-1.png",
+      "name": "image-1.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 9300
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image-2.png",
+      "name": "image-2.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 44816
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image-3.png",
+      "name": "image-3.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 3571
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image-4.png",
+      "name": "image-4.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 2696
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image-5.png",
+      "name": "image-5.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 5400
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image-6.png",
+      "name": "image-6.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 34351
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image-7.png",
+      "name": "image-7.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 49393
+    },
+    {
+      "path": "/encyclopedia/7-project/7-04-analitika/image.png",
+      "name": "image.png",
+      "article": "7-project/7-04-analitika",
+      "bytes": 4002
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/design/image-15.png",
+      "name": "image-15.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura/design",
+      "bytes": 48532
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/design/image-16.png",
+      "name": "image-16.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura/design",
+      "bytes": 32015
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/design/image-17.png",
+      "name": "image-17.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura/design",
+      "bytes": 35331
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/design/image-18.png",
+      "name": "image-18.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura/design",
+      "bytes": 32211
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/design/image-19.png",
+      "name": "image-19.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura/design",
+      "bytes": 49850
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/design/image-20.png",
+      "name": "image-20.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura/design",
+      "bytes": 55221
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/design/image-21.png",
+      "name": "image-21.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura/design",
+      "bytes": 72693
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-1.png",
+      "name": "image-1.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 86788
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-10.png",
+      "name": "image-10.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 29041
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-11.png",
+      "name": "image-11.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 20264
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-12.png",
+      "name": "image-12.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 24069
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-13.png",
+      "name": "image-13.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 35776
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-14.png",
+      "name": "image-14.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 40256
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-2.png",
+      "name": "image-2.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 57129
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-3.png",
+      "name": "image-3.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 55942
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-4.png",
+      "name": "image-4.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 55354
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-5.png",
+      "name": "image-5.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 45826
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-6.png",
+      "name": "image-6.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 24537
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-7.png",
+      "name": "image-7.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 72706
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-8.png",
+      "name": "image-8.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 26722
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image-9.png",
+      "name": "image-9.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 38608
+    },
+    {
+      "path": "/encyclopedia/7-project/7-06-proektirovanie-i-arhitektura/image.png",
+      "name": "image.png",
+      "article": "7-project/7-06-proektirovanie-i-arhitektura",
+      "bytes": 89990
+    },
+    {
+      "path": "/encyclopedia/7-project/7-08-tehnicheskoe-pismo/image-1.png",
+      "name": "image-1.png",
+      "article": "7-project/7-08-tehnicheskoe-pismo",
+      "bytes": 90183
+    },
+    {
+      "path": "/encyclopedia/7-project/7-08-tehnicheskoe-pismo/image-2.png",
+      "name": "image-2.png",
+      "article": "7-project/7-08-tehnicheskoe-pismo",
+      "bytes": 13076
+    },
+    {
+      "path": "/encyclopedia/7-project/7-08-tehnicheskoe-pismo/image-3.png",
+      "name": "image-3.png",
+      "article": "7-project/7-08-tehnicheskoe-pismo",
+      "bytes": 50328
+    },
+    {
+      "path": "/encyclopedia/7-project/7-08-tehnicheskoe-pismo/image-4.png",
+      "name": "image-4.png",
+      "article": "7-project/7-08-tehnicheskoe-pismo",
+      "bytes": 57704
+    },
+    {
+      "path": "/encyclopedia/7-project/7-08-tehnicheskoe-pismo/image-5.png",
+      "name": "image-5.png",
+      "article": "7-project/7-08-tehnicheskoe-pismo",
+      "bytes": 58905
+    },
+    {
+      "path": "/encyclopedia/7-project/7-08-tehnicheskoe-pismo/image.png",
+      "name": "image.png",
+      "article": "7-project/7-08-tehnicheskoe-pismo",
+      "bytes": 120926
+    },
+    {
+      "path": "/encyclopedia/7-project/7-10-kultura-koda/image.png",
+      "name": "image.png",
+      "article": "7-project/7-10-kultura-koda",
+      "bytes": 36804
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-01-oblachnye-tehnologii/image-1.png",
+      "name": "image-1.png",
+      "article": "8-infra-security/8-01-oblachnye-tehnologii",
+      "bytes": 42222
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-01-oblachnye-tehnologii/image-2.png",
+      "name": "image-2.png",
+      "article": "8-infra-security/8-01-oblachnye-tehnologii",
+      "bytes": 42449
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-01-oblachnye-tehnologii/image-3.png",
+      "name": "image-3.png",
+      "article": "8-infra-security/8-01-oblachnye-tehnologii",
+      "bytes": 36071
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-01-oblachnye-tehnologii/image.png",
+      "name": "image.png",
+      "article": "8-infra-security/8-01-oblachnye-tehnologii",
+      "bytes": 41876
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-1.png",
+      "name": "image-1.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 27013
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-10.png",
+      "name": "image-10.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 17658
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-11.png",
+      "name": "image-11.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 8547
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-12.png",
+      "name": "image-12.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 10021
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-13.png",
+      "name": "image-13.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 6797
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-14.png",
+      "name": "image-14.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 7681
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-15.png",
+      "name": "image-15.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 4217
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-2.png",
+      "name": "image-2.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 29598
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-3.png",
+      "name": "image-3.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 26159
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-4.png",
+      "name": "image-4.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 59340
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-5.png",
+      "name": "image-5.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 42433
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-6.png",
+      "name": "image-6.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 24739
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-7.png",
+      "name": "image-7.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 65481
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-8.png",
+      "name": "image-8.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 41392
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image-9.png",
+      "name": "image-9.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 34372
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-03-zabota-o-kode-i-dannyh/image.png",
+      "name": "image.png",
+      "article": "8-infra-security/8-03-zabota-o-kode-i-dannyh",
+      "bytes": 916026
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-04-devops-ci-cd/image-1.png",
+      "name": "image-1.png",
+      "article": "8-infra-security/8-04-devops-ci-cd",
+      "bytes": 4825
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-04-devops-ci-cd/image.png",
+      "name": "image.png",
+      "article": "8-infra-security/8-04-devops-ci-cd",
+      "bytes": 51666
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-1.png",
+      "name": "image-1.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 41388
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-10.png",
+      "name": "image-10.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 32346
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-11.png",
+      "name": "image-11.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 70551
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-12.png",
+      "name": "image-12.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 64457
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-13.png",
+      "name": "image-13.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 29342
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-14.png",
+      "name": "image-14.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 29684
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-15.png",
+      "name": "image-15.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 30163
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-16.png",
+      "name": "image-16.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 43507
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-17.png",
+      "name": "image-17.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 32379
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-18.png",
+      "name": "image-18.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 41876
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-19.png",
+      "name": "image-19.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 32673
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-2.png",
+      "name": "image-2.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 43833
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-20.png",
+      "name": "image-20.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 31643
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-21.png",
+      "name": "image-21.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 44759
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-22.png",
+      "name": "image-22.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 53985
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-23.png",
+      "name": "image-23.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 20971
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-3.png",
+      "name": "image-3.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 60143
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-4.png",
+      "name": "image-4.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 34494
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-5.png",
+      "name": "image-5.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 40926
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-6.png",
+      "name": "image-6.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 44979
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-7.png",
+      "name": "image-7.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 43845
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-8.png",
+      "name": "image-8.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 47291
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image-9.png",
+      "name": "image-9.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 47259
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-05-mikroservisy-i-integratsiya/image.png",
+      "name": "image.png",
+      "article": "8-infra-security/8-05-mikroservisy-i-integratsiya",
+      "bytes": 46182
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-1.png",
+      "name": "image-1.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 35825
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-10.png",
+      "name": "image-10.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 17134
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-11.png",
+      "name": "image-11.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 41003
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-1121.png",
+      "name": "image-1121.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 73848
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-2.png",
+      "name": "image-2.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 35665
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-3.png",
+      "name": "image-3.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 73769
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-4.png",
+      "name": "image-4.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 2911
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-5.png",
+      "name": "image-5.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 18907
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-6.png",
+      "name": "image-6.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 26356
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-7.png",
+      "name": "image-7.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 26291
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-8.png",
+      "name": "image-8.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 36581
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image-9.png",
+      "name": "image-9.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 61771
+    },
+    {
+      "path": "/encyclopedia/8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya/image.png",
+      "name": "image.png",
+      "article": "8-infra-security/8-06-konteynerizatsiya-i-orkestratsiya",
+      "bytes": 43579
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/Diablo2_1.png",
+      "name": "Diablo2_1.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 320854
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/Diablo2.png",
+      "name": "Diablo2.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 317217
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/Diablo4.png",
+      "name": "Diablo4.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 556172
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/DMC5.png",
+      "name": "DMC5.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 305144
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/Doom1.png",
+      "name": "Doom1.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 288110
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/DoomEternal.png",
+      "name": "DoomEternal.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 354190
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/DoomTDA.png",
+      "name": "DoomTDA.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 293804
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/FC.png",
+      "name": "FC.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 294705
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/FC3.png",
+      "name": "FC3.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 382326
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/Halo.png",
+      "name": "Halo.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 329253
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/MHR.png",
+      "name": "MHR.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 466234
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/MK9.png",
+      "name": "MK9.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 366458
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/OW2.png",
+      "name": "OW2.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 352839
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/SC2.png",
+      "name": "SC2.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 355013
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/SF5.png",
+      "name": "SF5.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 327432
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/Skyrim.png",
+      "name": "Skyrim.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 382037
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/TESO.png",
+      "name": "TESO.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 457342
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/Warhammer.png",
+      "name": "Warhammer.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 380092
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-03-igrovaya-industriya/game-studies/WC3.png",
+      "name": "WC3.png",
+      "article": "9-spinoff/9-03-igrovaya-industriya/game-studies",
+      "bytes": 400332
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-04-razrabotka-igr/image.png",
+      "name": "image.png",
+      "article": "9-spinoff/9-04-razrabotka-igr",
+      "bytes": 69009
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-05-blokcheyn-kripta-i-nft/image-1.png",
+      "name": "image-1.png",
+      "article": "9-spinoff/9-05-blokcheyn-kripta-i-nft",
+      "bytes": 28546
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-05-blokcheyn-kripta-i-nft/image-2.png",
+      "name": "image-2.png",
+      "article": "9-spinoff/9-05-blokcheyn-kripta-i-nft",
+      "bytes": 27913
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-05-blokcheyn-kripta-i-nft/image-3.png",
+      "name": "image-3.png",
+      "article": "9-spinoff/9-05-blokcheyn-kripta-i-nft",
+      "bytes": 35806
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-05-blokcheyn-kripta-i-nft/image-4.png",
+      "name": "image-4.png",
+      "article": "9-spinoff/9-05-blokcheyn-kripta-i-nft",
+      "bytes": 33017
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-05-blokcheyn-kripta-i-nft/image-5.png",
+      "name": "image-5.png",
+      "article": "9-spinoff/9-05-blokcheyn-kripta-i-nft",
+      "bytes": 34196
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-05-blokcheyn-kripta-i-nft/image.png",
+      "name": "image.png",
+      "article": "9-spinoff/9-05-blokcheyn-kripta-i-nft",
+      "bytes": 53874
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-08-kompyuternaya-grafika/image.png",
+      "name": "image.png",
+      "article": "9-spinoff/9-08-kompyuternaya-grafika",
+      "bytes": 265538
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-1.png",
+      "name": "image-1.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 23302
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-2.png",
+      "name": "image-2.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 61104
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-3.png",
+      "name": "image-3.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 64737
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-4.png",
+      "name": "image-4.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 111144
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-5.png",
+      "name": "image-5.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 77104
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-6.png",
+      "name": "image-6.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 57372
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-7.png",
+      "name": "image-7.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 55437
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-8.png",
+      "name": "image-8.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 61614
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image-9.png",
+      "name": "image-9.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 73936
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/1-computer/image.png",
+      "name": "image.png",
+      "article": "9-spinoff/9-11-dlya-detey/1-computer",
+      "bytes": 26922
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/2-video-games/image-1.png",
+      "name": "image-1.png",
+      "article": "9-spinoff/9-11-dlya-detey/2-video-games",
+      "bytes": 18932
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/2-video-games/image-2.png",
+      "name": "image-2.png",
+      "article": "9-spinoff/9-11-dlya-detey/2-video-games",
+      "bytes": 23852
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/2-video-games/image-3.png",
+      "name": "image-3.png",
+      "article": "9-spinoff/9-11-dlya-detey/2-video-games",
+      "bytes": 11123
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/2-video-games/image-4.png",
+      "name": "image-4.png",
+      "article": "9-spinoff/9-11-dlya-detey/2-video-games",
+      "bytes": 2010649
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/2-video-games/image.png",
+      "name": "image.png",
+      "article": "9-spinoff/9-11-dlya-detey/2-video-games",
+      "bytes": 14070
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-1.png",
+      "name": "image-1.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 313158
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-10.png",
+      "name": "image-10.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 33330
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-11.png",
+      "name": "image-11.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 18881
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-12.png",
+      "name": "image-12.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 17037
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-13.png",
+      "name": "image-13.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 6797
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-14.png",
+      "name": "image-14.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 57116
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-15.png",
+      "name": "image-15.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 4549
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-16.png",
+      "name": "image-16.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 8385
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-17.png",
+      "name": "image-17.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 4863
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-18.png",
+      "name": "image-18.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 8525
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-19.png",
+      "name": "image-19.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 26252
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-2.png",
+      "name": "image-2.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 118872
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-20.png",
+      "name": "image-20.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 25483
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-21.png",
+      "name": "image-21.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 22437
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-22.png",
+      "name": "image-22.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 49124
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-23.png",
+      "name": "image-23.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 9238
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-24.png",
+      "name": "image-24.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 3087
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-25.png",
+      "name": "image-25.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 19906
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-26.png",
+      "name": "image-26.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 12752
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-27.png",
+      "name": "image-27.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 50122
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-28.png",
+      "name": "image-28.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 24190
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-29.png",
+      "name": "image-29.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 10908
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-3.png",
+      "name": "image-3.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 19285
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-30.png",
+      "name": "image-30.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 17010
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-31.png",
+      "name": "image-31.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 26955
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-32.png",
+      "name": "image-32.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 16745
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-33.png",
+      "name": "image-33.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 20650
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-34.png",
+      "name": "image-34.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 20387
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-35.png",
+      "name": "image-35.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 53188
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-36.png",
+      "name": "image-36.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 70031
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-37.png",
+      "name": "image-37.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 82630
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-38.png",
+      "name": "image-38.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 55284
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-39.png",
+      "name": "image-39.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 21198
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-4.png",
+      "name": "image-4.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 17766
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-5.png",
+      "name": "image-5.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 10734
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-6.png",
+      "name": "image-6.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 108115
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-7.png",
+      "name": "image-7.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 32576
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-8.png",
+      "name": "image-8.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 16394
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/image-9.png",
+      "name": "image-9.png",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod",
+      "bytes": 21672
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/img/scratch-platformer/Остановка.svg",
+      "name": "Остановка.svg",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod/img/scratch-platformer",
+      "bytes": 8082
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/img/scratch-platformer/Падение.svg",
+      "name": "Падение.svg",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod/img/scratch-platformer",
+      "bytes": 9379
+    },
+    {
+      "path": "/encyclopedia/9-spinoff/9-11-dlya-detey/5-kod/img/scratch-platformer/Прыжок.svg",
+      "name": "Прыжок.svg",
+      "article": "9-spinoff/9-11-dlya-detey/5-kod/img/scratch-platformer",
+      "bytes": 9294
     }
   ]
 }

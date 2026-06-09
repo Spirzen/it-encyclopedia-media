@@ -12,23 +12,33 @@
 
 ## Структура путей
 
-Повторяем путь статьи в энциклопедии:
+Иллюстрации статьи — путь от `docs/encyclopedia/` (без префикса `docs/encyclopedia`):
 
 ```
-public/encyclopedia/<раздел>/<подраздел>/<id>/<имя-файла>.webp
+public/encyclopedia/<раздел>/<подраздел>/…/<имя-файла>.png
 ```
 
-Пример (пилот):
+Примеры:
 
 ```
 public/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/617/media-pilot-test.png
+public/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-3.png
+```
+
+Общие диаграммы из бывшего `static/img/`:
+
+```
+public/encyclopedia/_shared/img/it-universe-architecture.png
 ```
 
 URL в статье:
 
 ```markdown
 ![Описание](https://assets.spirzen.ru/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/617/media-pilot-test.png)
+![Архитектура](https://assets.spirzen.ru/encyclopedia/_shared/img/it-universe-architecture.png)
 ```
+
+Миграция из `it-knowledge-base`: `node scripts/migrate-from-kb.mjs` (опция `--dry-run`).
 
 ## Деплой
 
