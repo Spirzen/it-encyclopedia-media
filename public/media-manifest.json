@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generatedAt": "2026-06-09T10:42:29.075Z",
-  "count": 673,
+  "generatedAt": "2026-06-09T13:57:43.717Z",
+  "count": 750,
   "images": [
     {
       "path": "/encyclopedia/_shared/img/goland-debug-goroutines.png",
@@ -88,6 +88,120 @@
       "bytes": 81012
     },
     {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/Гарвардская_архитектура_компьютера.svg",
+      "name": "Гарвардская_архитектура_компьютера.svg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 11056
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/Схема_архитектуры_фон_Неймана.svg",
+      "name": "Схема_архитектуры_фон_Неймана.svg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 16215
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/Antic.jpg",
+      "name": "Antic.jpg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 211953
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/Arpanet.png",
+      "name": "Arpanet.png",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 39563
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/Babbidge.jpg",
+      "name": "Babbidge.jpg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 71423
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/ENIAC.jpg",
+      "name": "ENIAC.jpg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 623971
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/FirstLetters.jpg",
+      "name": "FirstLetters.jpg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 30287
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/Harvard_Mark_I_Computer.jpg",
+      "name": "Harvard_Mark_I_Computer.jpg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 1027166
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/IETF.png",
+      "name": "IETF.png",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 2908
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/InputOutput.webp",
+      "name": "InputOutput.webp",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 64630
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-07-nemnogo-o-proshlom/Intel_4004.jpg",
+      "name": "Intel_4004.jpg",
+      "article": "1-basics/1-07-nemnogo-o-proshlom",
+      "bytes": 22714
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Android.png",
+      "name": "Android.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 105501
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Audio1.jpg",
+      "name": "Audio1.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 64599
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Audio2.png",
+      "name": "Audio2.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 275019
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Audio3.webp",
+      "name": "Audio3.webp",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 17586
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Audio4.jpg",
+      "name": "Audio4.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 99255
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/D-pad.jpg",
+      "name": "D-pad.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 666534
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Display.webp",
+      "name": "Display.webp",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 4648
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Gamepad.jpg",
+      "name": "Gamepad.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 20674
+    },
+    {
       "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-1.png",
       "name": "image-1.png",
       "article": "1-basics/1-08-kak-rabotaet-kompyuter",
@@ -166,6 +280,90 @@
       "bytes": 34705
     },
     {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/iOS.png",
+      "name": "iOS.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 113956
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/iPad.jpg",
+      "name": "iPad.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 216280
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Joystick.jpg",
+      "name": "Joystick.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 69595
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Key.jpg",
+      "name": "Key.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 53196
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Keyboard.jpg",
+      "name": "Keyboard.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 1310297
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Mouse.jpg",
+      "name": "Mouse.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 361303
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Notebook.jpg",
+      "name": "Notebook.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 224665
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/PCMain.jpg",
+      "name": "PCMain.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 75109
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/PocketPC.jpg",
+      "name": "PocketPC.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 91508
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/SIM.webp",
+      "name": "SIM.webp",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 8940
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Smartphone.avif",
+      "name": "Smartphone.avif",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 34870
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/SoundCard.webp",
+      "name": "SoundCard.webp",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 23520
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Storages.png",
+      "name": "Storages.png",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 1173812
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/Videoports.jpg",
+      "name": "Videoports.jpg",
+      "article": "1-basics/1-08-kak-rabotaet-kompyuter",
+      "bytes": 40217
+    },
+    {
       "path": "/encyclopedia/1-basics/1-09-dannye-i-informatsiya/image-1.png",
       "name": "image-1.png",
       "article": "1-basics/1-09-dannye-i-informatsiya",
@@ -194,6 +392,54 @@
       "name": "image.png",
       "article": "1-basics/1-10-bazovye-operatsii-s-dannymi",
       "bytes": 20177
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-11-soft-ryadovogo-polzovatelya/DocumentWord.png",
+      "name": "DocumentWord.png",
+      "article": "1-basics/1-11-soft-ryadovogo-polzovatelya",
+      "bytes": 66436
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-11-soft-ryadovogo-polzovatelya/MSOffice.png",
+      "name": "MSOffice.png",
+      "article": "1-basics/1-11-soft-ryadovogo-polzovatelya",
+      "bytes": 55526
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-11-soft-ryadovogo-polzovatelya/MSTeams.png",
+      "name": "MSTeams.png",
+      "article": "1-basics/1-11-soft-ryadovogo-polzovatelya",
+      "bytes": 346971
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-11-soft-ryadovogo-polzovatelya/Paint.png",
+      "name": "Paint.png",
+      "article": "1-basics/1-11-soft-ryadovogo-polzovatelya",
+      "bytes": 141672
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-11-soft-ryadovogo-polzovatelya/Telemost.png",
+      "name": "Telemost.png",
+      "article": "1-basics/1-11-soft-ryadovogo-polzovatelya",
+      "bytes": 178006
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-11-soft-ryadovogo-polzovatelya/videoconf.png",
+      "name": "videoconf.png",
+      "article": "1-basics/1-11-soft-ryadovogo-polzovatelya",
+      "bytes": 38326
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-11-soft-ryadovogo-polzovatelya/ZoomWorkplace.png",
+      "name": "ZoomWorkplace.png",
+      "article": "1-basics/1-11-soft-ryadovogo-polzovatelya",
+      "bytes": 59260
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/Explorer.avif",
+      "name": "Explorer.avif",
+      "article": "1-basics/1-12-sovety-dlya-novichka",
+      "bytes": 25821
     },
     {
       "path": "/encyclopedia/1-basics/1-12-sovety-dlya-novichka/image-1.png",
@@ -346,6 +592,66 @@
       "bytes": 17243
     },
     {
+      "path": "/encyclopedia/1-basics/1-13-soft-prodvinutogo-polzovatelya/total-commander.jpg",
+      "name": "total-commander.jpg",
+      "article": "1-basics/1-13-soft-prodvinutogo-polzovatelya",
+      "bytes": 47376
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-13-soft-prodvinutogo-polzovatelya/VSCode.png",
+      "name": "VSCode.png",
+      "article": "1-basics/1-13-soft-prodvinutogo-polzovatelya",
+      "bytes": 72395
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-14-sovety-dlya-prodvinutogo/FPSinGames.jpg",
+      "name": "FPSinGames.jpg",
+      "article": "1-basics/1-14-sovety-dlya-prodvinutogo",
+      "bytes": 245809
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-15-tekst/Excel.png",
+      "name": "Excel.png",
+      "article": "1-basics/1-15-tekst",
+      "bytes": 82462
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-15-tekst/kindle.jpg",
+      "name": "kindle.jpg",
+      "article": "1-basics/1-15-tekst",
+      "bytes": 26087
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-15-tekst/SymbolTable.avif",
+      "name": "SymbolTable.avif",
+      "article": "1-basics/1-15-tekst",
+      "bytes": 43611
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-15-tekst/Word.png",
+      "name": "Word.png",
+      "article": "1-basics/1-15-tekst",
+      "bytes": 186939
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-16-grafika/2DPaint.png",
+      "name": "2DPaint.png",
+      "article": "1-basics/1-16-grafika",
+      "bytes": 131420
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-16-grafika/3DBlender.png",
+      "name": "3DBlender.png",
+      "article": "1-basics/1-16-grafika",
+      "bytes": 125956
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-18-kompyuternye-igry/Contra.png",
+      "name": "Contra.png",
+      "article": "1-basics/1-18-kompyuternye-igry",
+      "bytes": 97352
+    },
+    {
       "path": "/encyclopedia/1-basics/1-18-kompyuternye-igry/image-1.png",
       "name": "image-1.png",
       "article": "1-basics/1-18-kompyuternye-igry",
@@ -356,6 +662,12 @@
       "name": "image.png",
       "article": "1-basics/1-18-kompyuternye-igry",
       "bytes": 33368
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-18-kompyuternye-igry/InputOptions.png",
+      "name": "InputOptions.png",
+      "article": "1-basics/1-18-kompyuternye-igry",
+      "bytes": 33101
     },
     {
       "path": "/encyclopedia/1-basics/1-19-programma/image-1.png",
@@ -394,6 +706,30 @@
       "bytes": 64636
     },
     {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/AlisaSearch.png",
+      "name": "AlisaSearch.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 51824
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/Bing.png",
+      "name": "Bing.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 888327
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/DuckDuckGo.png",
+      "name": "DuckDuckGo.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 12133
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/Google.png",
+      "name": "Google.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 13153
+    },
+    {
       "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/image-1.png",
       "name": "image-1.png",
       "article": "1-basics/1-21-poisk-informatsii",
@@ -424,6 +760,18 @@
       "bytes": 32982
     },
     {
+      "path": "/encyclopedia/1-basics/1-21-poisk-informatsii/Yandex.png",
+      "name": "Yandex.png",
+      "article": "1-basics/1-21-poisk-informatsii",
+      "bytes": 10574
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-22-kommunikatsiya-i-obschenie/GoogleForms.png",
+      "name": "GoogleForms.png",
+      "article": "1-basics/1-22-kommunikatsiya-i-obschenie",
+      "bytes": 31905
+    },
+    {
       "path": "/encyclopedia/1-basics/1-22-kommunikatsiya-i-obschenie/image-1.png",
       "name": "image-1.png",
       "article": "1-basics/1-22-kommunikatsiya-i-obschenie",
@@ -434,6 +782,24 @@
       "name": "image.png",
       "article": "1-basics/1-22-kommunikatsiya-i-obschenie",
       "bytes": 11577
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-22-kommunikatsiya-i-obschenie/Outlook.png",
+      "name": "Outlook.png",
+      "article": "1-basics/1-22-kommunikatsiya-i-obschenie",
+      "bytes": 159721
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-22-kommunikatsiya-i-obschenie/telegram.messenger.jpg",
+      "name": "telegram.messenger.jpg",
+      "article": "1-basics/1-22-kommunikatsiya-i-obschenie",
+      "bytes": 156650
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-23-frontend-i-bekend/Frontend.png",
+      "name": "Frontend.png",
+      "article": "1-basics/1-23-frontend-i-bekend",
+      "bytes": 114805
     },
     {
       "path": "/encyclopedia/1-basics/1-24-osnovnye-yazyki/image-1.png",
@@ -634,6 +1000,12 @@
       "bytes": 23390
     },
     {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/explorer.avif",
+      "name": "explorer.avif",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 35584
+    },
+    {
       "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/image-1.png",
       "name": "image-1.png",
       "article": "2-system-network/2-01-operatsionnaya-sistema",
@@ -760,6 +1132,30 @@
       "bytes": 57620
     },
     {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/pusk.avif",
+      "name": "pusk.avif",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 71712
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/taskbar.avif",
+      "name": "taskbar.avif",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 26045
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/unix-1.png",
+      "name": "unix-1.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 49813
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-01-operatsionnaya-sistema/Windows10.png",
+      "name": "Windows10.png",
+      "article": "2-system-network/2-01-operatsionnaya-sistema",
+      "bytes": 93362
+    },
+    {
       "path": "/encyclopedia/2-system-network/2-02-platformy/image-1.png",
       "name": "image-1.png",
       "article": "2-system-network/2-02-platformy",
@@ -856,6 +1252,24 @@
       "bytes": 29865
     },
     {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/BaseURL.png",
+      "name": "BaseURL.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 49174
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/BrowserAddress.png",
+      "name": "BrowserAddress.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 43298
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/DevTools.png",
+      "name": "DevTools.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 188734
+    },
+    {
       "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/image-1.png",
       "name": "image-1.png",
       "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
@@ -872,6 +1286,30 @@
       "name": "image.png",
       "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
       "bytes": 32528
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/SPA.png",
+      "name": "SPA.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 6047
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/WebApp.png",
+      "name": "WebApp.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 18698
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty/WebServer.png",
+      "name": "WebServer.png",
+      "article": "2-system-network/2-04-kak-rabotayut-sayty-i-veb-sayty",
+      "bytes": 27990
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-05-terminal/GUICLI.png",
+      "name": "GUICLI.png",
+      "article": "2-system-network/2-05-terminal",
+      "bytes": 9284
     },
     {
       "path": "/encyclopedia/2-system-network/2-05-terminal/image-1.png",
@@ -976,16 +1414,40 @@
       "bytes": 66549
     },
     {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/NvidiaDrivers.png",
+      "name": "NvidiaDrivers.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 191233
+    },
+    {
       "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/prometheus-grafana-praktikum/image.png",
       "name": "image.png",
       "article": "2-system-network/2-06-sistemnoe-administrirovanie/prometheus-grafana-praktikum",
       "bytes": 57452
     },
     {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/RolesAndUsers.png",
+      "name": "RolesAndUsers.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 12597
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-06-sistemnoe-administrirovanie/Rufus.png",
+      "name": "Rufus.png",
+      "article": "2-system-network/2-06-sistemnoe-administrirovanie",
+      "bytes": 45140
+    },
+    {
       "path": "/encyclopedia/2-system-network/2-07-tehnicheskaya-podderzhka/image.png",
       "name": "image.png",
       "article": "2-system-network/2-07-tehnicheskaya-podderzhka",
       "bytes": 75090
+    },
+    {
+      "path": "/encyclopedia/2-system-network/2-07-tehnicheskaya-podderzhka/Lines.png",
+      "name": "Lines.png",
+      "article": "2-system-network/2-07-tehnicheskaya-podderzhka",
+      "bytes": 14945
     },
     {
       "path": "/encyclopedia/2-system-network/2-09-osnovy-integratsionnogo-vzaimodeystviya/image-1.png",
