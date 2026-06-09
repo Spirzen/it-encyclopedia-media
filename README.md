@@ -4,6 +4,8 @@
 
 Продакшен: **[assets.spirzen.ru](https://assets.spirzen.ru/)** (GitHub Pages, без сборки).
 
+Главная — `public/index.html`: космическая витрина со случайными картинками из библиотеки. Список файлов — `public/media-manifest.json` (генерируется при деплое: `node scripts/generate-manifest.mjs`).
+
 ## Зачем отдельный репозиторий
 
 Текст и SEO остаются в [`it-knowledge-base`](https://github.com/Spirzen/it-knowledge-base); длинный код — в [`it-code-examples`](https://github.com/Spirzen/it-code-examples); интерактив — в [`it-play`](https://github.com/Spirzen/it-play). Картинки не раздувают clone и билд Docusaurus.
@@ -33,6 +35,15 @@ URL в статье:
 Push в `main` → GitHub Actions → GitHub Pages.
 
 DNS: `assets` CNAME → `spirzen.github.io`, в репозитории `public/CNAME` = `assets.spirzen.ru`.
+
+## Локальный просмотр
+
+Не открывайте `index.html` двойным кликом (`file://`) — пути `/encyclopedia/...` уйдут на диск `F:\encyclopedia\...`.
+
+```bash
+npx serve public -p 8788
+# http://localhost:8788
+```
 
 ## Рекомендации
 

@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IT Encyclopedia Media — assets.spirzen.ru</title>
+  <meta name="description" content="Медиатека энциклопедии «Вселенная IT»: иллюстрации, скриншоты и диаграммы для spirzen.ru." />
+  <meta name="theme-color" content="#0b0d14" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🖼%3C/text%3E%3C/svg%3E" />
+  <style>
+    :root {
+      --primary: #8b7cf6;
+      --primary-glow: rgba(139, 124, 246, 0.45);
+      --accent: #c4b5fd;
+      --bg-deep: #06070c;
+      --bg-mid: #0b0d14;
+      --glass: rgba(20, 24, 36, 0.72);
+      --glass-border: rgba(255, 255, 255, 0.12);
+      --text: #e8eaff;
+      --text-muted: #9aa3c7;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg-deep);
+      color: var(--text);
+    }
+
+    #stars {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+    }
+
+    .nebula {
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      pointer-events: none;
+      background:
+        radial-gradient(ellipse 80% 50% at 20% 20%, rgba(109, 92, 232, 0.22), transparent 55%),
+        radial-gradient(ellipse 60% 40% at 85% 75%, rgba(147, 112, 219, 0.14), transparent 50%),
+        radial-gradient(ellipse 100% 80% at 50% 100%, rgba(11, 13, 20, 0.9), transparent 70%);
+    }
+
+    #float-layer {
+      position: fixed;
+      inset: 0;
+      z-index: 2;
+      perspective: 1200px;
+      overflow: hidden;
+    }
+
+    .floater {
+      position: absolute;
+      left: 0;
+      top: 0;
+      will-change: transform;
+      cursor: pointer;
+      transition: filter 0.35s ease, opacity 0.35s ease;
+    }
+
+    .floater::before {
+      content: '';
+      position: absolute;
+      inset: -20%;
+      background: radial-gradient(circle, var(--primary-glow), transparent 70%);
+      opacity: 0;
+      transition: opacity 0.35s ease;
+      z-index: -1;
+    }
+
+    .floater:hover::before { opacity: 1; }
+    .floater:hover { filter: brightness(1.12) saturate(1.1); z-index: 50 !important; }
+
+    .floater-frame {
+      background: linear-gradient(145deg, rgba(255,255,255,0.14), rgba(255,255,255,0.04));
+      border: 1px solid var(--glass-border);
+      border-radius: 14px;
+      padding: 8px;
+      box-shadow:
+        0 8px 32px rgba(0, 0, 0, 0.45),
+        0 0 0 1px rgba(139, 124, 246, 0.08) inset;
+      backdrop-filter: blur(6px);
+    }
+
+    .floater img {
+      display: block;
+      width: 100%;
+      height: auto;
+      min-height: 48px;
+      border-radius: 8px;
+      object-fit: contain;
+      background: #141824;
+    }
+
+    .floater.is-broken .floater-frame {
+      border-color: rgba(248, 113, 113, 0.45);
+    }
+
+    .floater.is-broken img {
+      opacity: 0.35;
+    }
+
+    .hero {
+      position: fixed;
+      inset: 0;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      pointer-events: none;
+    }
+
+    .hero-card {
+      pointer-events: auto;
+      max-width: 520px;
+      width: 100%;
+      text-align: center;
+      padding: 2.25rem 2rem 2rem;
+      border-radius: 20px;
+      background: var(--glass);
+      border: 1px solid var(--glass-border);
+      backdrop-filter: blur(18px);
+      box-shadow:
+        0 24px 80px rgba(0, 0, 0, 0.55),
+        0 0 60px rgba(139, 124, 246, 0.12);
+      animation: card-in 1.2s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+
+    @keyframes card-in {
+      from { opacity: 0; transform: translateY(24px) scale(0.96); }
+      to { opacity: 1; transform: none; }
+    }
+
+    .badge {
+      display: inline-block;
+      font-size: 0.72rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent);
+      border: 1px solid rgba(196, 181, 253, 0.35);
+      border-radius: 999px;
+      padding: 0.35rem 0.85rem;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.15rem);
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 0.65rem;
+      background: linear-gradient(135deg, #fff 0%, var(--accent) 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 0.98rem;
+      line-height: 1.55;
+      margin-bottom: 1.35rem;
+    }
+
+    .stats {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    .stat {
+      min-width: 100px;
+      padding: 0.65rem 1rem;
+      border-radius: 12px;
+      background: rgba(0, 0, 0, 0.28);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 1.35rem;
+      color: var(--primary);
+    }
+
+    .stat span {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .links {
+      display: flex;
+      gap: 0.75rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.65rem 1.15rem;
+      border-radius: 10px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #8b7cf6, #6d5ce8);
+      color: #fff;
+      box-shadow: 0 4px 20px rgba(109, 92, 232, 0.4);
+    }
+
+    .btn-ghost {
+      color: var(--text);
+      border: 1px solid var(--glass-border);
+      background: rgba(255, 255, 255, 0.04);
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+    }
+
+    .hint {
+      margin-top: 1.25rem;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      opacity: 0.85;
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 1.25rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(120%);
+      z-index: 100;
+      padding: 0.55rem 1rem;
+      border-radius: 999px;
+      background: rgba(20, 24, 36, 0.92);
+      border: 1px solid var(--glass-border);
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+      pointer-events: none;
+    }
+
+    .toast.visible { transform: translateX(-50%) translateY(0); }
+
+    @media (prefers-reduced-motion: reduce) {
+      .hero-card { animation: none; }
+      .floater { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <canvas id="stars" aria-hidden="true"></canvas>
+  <div class="nebula" aria-hidden="true"></div>
+  <div id="float-layer" aria-hidden="true"></div>
+
+  <main class="hero">
+    <div class="hero-card">
+      <div class="badge">Вселенная IT · медиа</div>
+      <h1>IT Encyclopedia Media</h1>
+      <p class="subtitle">
+        Иллюстрации, скриншоты и диаграммы для
+        <a href="https://spirzen.ru/" style="color: var(--accent);">spirzen.ru</a>.
+        Вокруг — случайные кадры из библиотеки, плывущие в космосе.
+      </p>
+      <div class="stats">
+        <div class="stat">
+          <strong id="stat-count">—</strong>
+          <span>в библиотеке</span>
+        </div>
+        <div class="stat">
+          <strong id="stat-orbit">0</strong>
+          <span>на орбите</span>
+        </div>
+      </div>
+      <div class="links">
+        <a class="btn btn-primary" href="https://spirzen.ru/">Энциклопедия</a>
+        <a class="btn btn-ghost" href="https://github.com/Spirzen/it-encyclopedia-media">GitHub</a>
+      </div>
+      <p class="hint">Клик по картинке — открыть файл · движение мыши — параллакс<br />Локально: <code>npx serve public -p 8788</code> → <code>http://localhost:8788</code></p>
+    </div>
+  </main>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script>
+    const REDUCED = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const layer = document.getElementById('float-layer');
+    const statCount = document.getElementById('stat-count');
+    const statOrbit = document.getElementById('stat-orbit');
+    const toast = document.getElementById('toast');
+    let images = [];
+    let floaters = [];
+    let mouse = { x: 0.5, y: 0.5 };
+    let toastTimer;
+
+    function showToast(msg) {
+      toast.textContent = msg;
+      toast.classList.add('visible');
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toast.classList.remove('visible'), 2800);
+    }
+
+    function pick(arr) {
+      return arr[Math.floor(Math.random() * arr.length)];
+    }
+
+    function rand(min, max) {
+      return min + Math.random() * (max - min);
+    }
+
+    const IS_FILE = location.protocol === 'file:';
+    const CDN_ORIGIN = 'https://assets.spirzen.ru';
+
+    /**
+     * Путь к файлу:
+     * - file:// (двойной клик по index.html) → относительно public/index.html
+     * - http(s) на assets.spirzen.ru → от корня сайта /encyclopedia/...
+     */
+    function mediaUrl(path) {
+      if (!path) return '';
+      if (/^https?:\/\//i.test(path)) return path;
+      const rel = path.replace(/^\/+/, '');
+      if (IS_FILE) return new URL(rel, location.href).href;
+      return `/${rel}`;
+    }
+
+    /** Ссылка для открытия в новой вкладке (всегда канонический HTTPS на проде). */
+    function mediaOpenUrl(path) {
+      if (!path) return '';
+      if (/^https?:\/\//i.test(path)) return path;
+      const rel = path.replace(/^\/+/, '');
+      if (IS_FILE) return new URL(rel, location.href).href;
+      return `${CDN_ORIGIN}/${rel}`;
+    }
+
+    function manifestUrl() {
+      return IS_FILE
+        ? new URL('media-manifest.json', location.href).href
+        : '/media-manifest.json';
+    }
+
+    function preloadImage(path) {
+      return new Promise((resolve, reject) => {
+        const probe = new Image();
+        probe.decoding = 'async';
+        probe.onload = () => resolve(mediaUrl(path));
+        probe.onerror = () => reject(new Error(path));
+        probe.src = mediaUrl(path);
+      });
+    }
+
+    /* ——— Starfield ——— */
+    const canvas = document.getElementById('stars');
+    const ctx = canvas.getContext('2d');
+    let stars = [];
+    let w = 0;
+    let h = 0;
+
+    function resizeStars() {
+      w = canvas.width = window.innerWidth;
+      h = canvas.height = window.innerHeight;
+      const n = Math.floor((w * h) / 4200);
+      stars = Array.from({ length: n }, () => ({
+        x: Math.random() * w,
+        y: Math.random() * h,
+        r: Math.random() * 1.4 + 0.2,
+        a: Math.random(),
+        sp: Math.random() * 0.02 + 0.004,
+      }));
+    }
+
+    function drawStars(t) {
+      ctx.fillStyle = '#06070c';
+      ctx.fillRect(0, 0, w, h);
+      for (const s of stars) {
+        const tw = 0.35 + 0.65 * (0.5 + 0.5 * Math.sin(t * 0.001 * s.sp * 60 + s.a * 10));
+        ctx.beginPath();
+        ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(232, 234, 255, ${tw * 0.85})`;
+        ctx.fill();
+      }
+      if (!REDUCED && Math.random() < 0.008) {
+        const sx = Math.random() * w;
+        const sy = Math.random() * h * 0.4;
+        const grad = ctx.createLinearGradient(sx, sy, sx + 80, sy + 40);
+        grad.addColorStop(0, 'rgba(196, 181, 253, 0.9)');
+        grad.addColorStop(1, 'transparent');
+        ctx.strokeStyle = grad;
+        ctx.lineWidth = 1.5;
+        ctx.beginPath();
+        ctx.moveTo(sx, sy);
+        ctx.lineTo(sx + 80, sy + 40);
+        ctx.stroke();
+      }
+    }
+
+    /* ——— Floaters ——— */
+    function createFloater(entry, depth) {
+      const src = mediaUrl(entry.path);
+      const el = document.createElement('button');
+      el.type = 'button';
+      el.className = 'floater';
+      el.title = entry.name;
+      el.style.border = '0';
+      el.style.background = 'transparent';
+      el.style.padding = '0';
+      el.style.font = 'inherit';
+
+      const frame = document.createElement('div');
+      frame.className = 'floater-frame';
+      const img = document.createElement('img');
+      img.src = src;
+      img.alt = entry.name;
+      img.loading = 'eager';
+      img.decoding = 'async';
+      img.draggable = false;
+      img.addEventListener('error', () => {
+        el.classList.add('is-broken');
+        console.warn('Media load failed:', src);
+      });
+      frame.appendChild(img);
+      el.appendChild(frame);
+
+      const size = rand(88, 180) * (0.55 + depth * 0.45);
+      frame.style.width = `${size}px`;
+
+      const f = {
+        el,
+        x: rand(0, window.innerWidth),
+        y: rand(0, window.innerHeight),
+        z: depth,
+        vx: rand(-0.25, 0.25) * (1.1 - depth * 0.3),
+        vy: rand(-0.2, 0.2) * (1.1 - depth * 0.3),
+        rot: rand(-18, 18),
+        vr: rand(-0.15, 0.15),
+        wobble: Math.random() * Math.PI * 2,
+      };
+
+      el.addEventListener('click', () => {
+        window.open(mediaOpenUrl(entry.path), '_blank', 'noopener');
+        showToast(entry.name);
+      });
+
+      layer.appendChild(el);
+      floaters.push(f);
+    }
+
+    function spawnFloaters() {
+      layer.innerHTML = '';
+      floaters = [];
+      if (!images.length) return;
+
+      const pool = images.length < 8
+        ? Array.from({ length: 28 }, () => pick(images))
+        : images;
+
+      const count = Math.min(56, Math.max(24, pool.length * 2));
+      statOrbit.textContent = String(count);
+
+      for (let i = 0; i < count; i++) {
+        createFloater(pick(pool), rand(0.25, 1));
+      }
+    }
+
+    function tickFloaters() {
+      const mx = (mouse.x - 0.5) * 40;
+      const my = (mouse.y - 0.5) * 40;
+
+      for (const f of floaters) {
+        if (!REDUCED) {
+          f.x += f.vx;
+          f.y += f.vy;
+          f.rot += f.vr;
+          f.wobble += 0.012;
+        }
+
+        const pad = 120;
+        if (f.x < -pad) f.x = window.innerWidth + pad;
+        if (f.x > window.innerWidth + pad) f.x = -pad;
+        if (f.y < -pad) f.y = window.innerHeight + pad;
+        if (f.y > window.innerHeight + pad) f.y = -pad;
+
+        const px = f.x + mx * f.z;
+        const py = f.y + my * f.z + Math.sin(f.wobble) * 6;
+        const scale = 0.55 + f.z * 0.55;
+        const opacity = 0.55 + f.z * 0.4;
+
+        f.el.style.transform = `translate3d(${px}px, ${py}px, 0) rotate(${f.rot}deg) scale(${scale})`;
+        f.el.style.opacity = opacity;
+        f.el.style.zIndex = Math.floor(f.z * 20);
+      }
+    }
+
+    function loop(t) {
+      drawStars(t);
+      tickFloaters();
+      requestAnimationFrame(loop);
+    }
+
+    async function init() {
+      resizeStars();
+      try {
+        const res = await fetch(manifestUrl(), { cache: 'no-store' });
+        if (!res.ok) throw new Error('manifest');
+        const data = await res.json();
+        images = data.images || [];
+        statCount.textContent = String(data.count ?? images.length);
+      } catch {
+        images = [{
+          path: '/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/617/media-pilot-test.png',
+          name: 'media-pilot-test.png',
+        }];
+        statCount.textContent = String(images.length);
+      }
+
+      const uniquePaths = [...new Set(images.map((item) => item.path))];
+      const preloadResults = await Promise.allSettled(uniquePaths.map((p) => preloadImage(p)));
+      const failed = preloadResults.filter((r) => r.status === 'rejected').length;
+      if (failed > 0) {
+        showToast(`Не загрузилось файлов: ${failed} — проверьте пути в media-manifest.json`);
+      }
+
+      spawnFloaters();
+      if (!images.length) {
+        showToast('Библиотека пуста — добавьте файлы в public/encyclopedia/');
+      }
+      requestAnimationFrame(loop);
+    }
+
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      resizeStars();
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(spawnFloaters, 200);
+    });
+
+    window.addEventListener('mousemove', (e) => {
+      mouse.x = e.clientX / window.innerWidth;
+      mouse.y = e.clientY / window.innerHeight;
+    });
+
+    init();
+  </script>
+</body>
+</html>
