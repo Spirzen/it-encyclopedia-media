@@ -513,8 +513,22 @@
       requestAnimationFrame(loop);
     }
 
+    async function auditMediaSample(paths, sampleSize = 24) {
+      if (!paths.length) return;
+      const sample = paths.length <= sampleSize
+        ? paths
+        : paths.sort(() => Math.random() - 0.5).slice(0, sampleSize);
+      const preloadResults = await Promise.allSettled(sample.map((p) => preloadImage(p)));
+      const failed = preloadResults.filter((r) => r.status === 'rejected').length;
+      if (failed > 0) {
+        showToast(`Проверка выборки: не загрузилось ${failed} из ${sample.length}`);
+      }
+    }
+
     async function init() {
       resizeStars();
+      requestAnimationFrame(loop);
+
       try {
         const res = await fetch(manifestUrl(), { cache: 'no-store' });
         if (!res.ok) throw new Error('manifest');
@@ -529,18 +543,13 @@
         statCount.textContent = String(images.length);
       }
 
-      const uniquePaths = [...new Set(images.map((item) => item.path))];
-      const preloadResults = await Promise.allSettled(uniquePaths.map((p) => preloadImage(p)));
-      const failed = preloadResults.filter((r) => r.status === 'rejected').length;
-      if (failed > 0) {
-        showToast(`Не загрузилось файлов: ${failed} — проверьте пути в media-manifest.json`);
-      }
-
       spawnFloaters();
       if (!images.length) {
         showToast('Библиотека пуста — добавьте файлы в public/encyclopedia/');
       }
-      requestAnimationFrame(loop);
+
+      const uniquePaths = [...new Set(images.map((item) => item.path))];
+      void auditMediaSample(uniquePaths);
     }
 
     let resizeTimer;
