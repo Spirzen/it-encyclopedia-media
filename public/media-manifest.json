@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generatedAt": "2026-06-09T13:57:43.717Z",
-  "count": 750,
+  "generatedAt": "2026-06-11T15:57:18.635Z",
+  "count": 780,
   "images": [
     {
       "path": "/encyclopedia/_shared/img/goland-debug-goroutines.png",
@@ -44,6 +44,186 @@
       "name": "xcode-landmarks-swiftui-preview.png",
       "article": "_shared/img",
       "bytes": 104537
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/appdata.png",
+      "name": "appdata.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 9245
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/backup.png",
+      "name": "backup.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 13708
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/contex_menu.png",
+      "name": "contex_menu.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 35636
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/context1.png",
+      "name": "context1.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 33244
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/context2.png",
+      "name": "context2.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 5888
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/context3.png",
+      "name": "context3.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 41441
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/control.png",
+      "name": "control.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 7507
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/controlpanel.png",
+      "name": "controlpanel.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 52402
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/desktop.png",
+      "name": "desktop.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 1602009
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/diskC.png",
+      "name": "diskC.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 3945
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/file1.png",
+      "name": "file1.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 8042
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/file2.png",
+      "name": "file2.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 30490
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/file3.png",
+      "name": "file3.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 7988
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/files_and_cats.png",
+      "name": "files_and_cats.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 8403
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/gdrive.webp",
+      "name": "gdrive.webp",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 89244
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/hidden1.png",
+      "name": "hidden1.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 34083
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/hidden2.png",
+      "name": "hidden2.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 23510
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/logon.png",
+      "name": "logon.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 181708
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/quick_and_fav.png",
+      "name": "quick_and_fav.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 18825
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/recyclebin.png",
+      "name": "recyclebin.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 10906
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/run.png",
+      "name": "run.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 57399
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/searchwin.png",
+      "name": "searchwin.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 113726
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/shutdown.png",
+      "name": "shutdown.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 30049
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/taskmanager.png",
+      "name": "taskmanager.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 65490
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/terminal.png",
+      "name": "terminal.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 10419
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/tray.jpg",
+      "name": "tray.jpg",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 12863
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/user.png",
+      "name": "user.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 122965
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/win-elements.jpg",
+      "name": "win-elements.jpg",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 36158
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/window.png",
+      "name": "window.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 7779
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/winsxs.png",
+      "name": "winsxs.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 5657
     },
     {
       "path": "/encyclopedia/1-basics/1-04-kak-vidyat-it-obychnye-lyudi/image-1.png",

@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <title>Interfeys captures</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px;
+      background: #fff;
+      color: #1a1a1a;
+      font: 14px/1.4 "Segoe UI", system-ui, sans-serif;
+    }
+    .shot {
+      display: inline-block;
+      margin: 0 24px 24px 0;
+      padding: 12px;
+      background: #fff;
+      vertical-align: top;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8px 16px;
+      margin-right: 8px;
+      border-radius: 8px;
+      border: 1px solid #6b5ce7;
+      background: #6b5ce7;
+      color: #fff;
+      font: 600 14px/1 "Segoe UI", sans-serif;
+    }
+    .btn-secondary {
+      background: transparent;
+      color: #6b5ce7;
+    }
+    .btn-ghost {
+      background: #f4f4f5;
+      border-color: #d4d4d8;
+      color: #18181b;
+    }
+    .field {
+      width: 280px;
+      padding: 8px 12px;
+      border: 1px solid #d4d4d8;
+      border-radius: 8px;
+      font: 14px "Segoe UI", sans-serif;
+    }
+    .select {
+      width: 280px;
+      padding: 8px 12px;
+      border: 1px solid #d4d4d8;
+      border-radius: 8px;
+      background: #fff;
+      font: 14px "Segoe UI", sans-serif;
+    }
+    .range {
+      width: 320px;
+      accent-color: #6b5ce7;
+    }
+    .toggle {
+      position: relative;
+      width: 44px;
+      height: 24px;
+      border: none;
+      border-radius: 12px;
+      background: #6b5ce7;
+      padding: 0;
+    }
+    .toggle::after {
+      content: "";
+      position: absolute;
+      top: 2px;
+      left: 22px;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #fff;
+    }
+    .checks label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+    .menu-bar {
+      display: flex;
+      gap: 0;
+      border: 1px solid #d4d4d8;
+      border-radius: 8px;
+      overflow: hidden;
+      background: #fafafa;
+    }
+    .menu-bar button {
+      border: none;
+      background: transparent;
+      padding: 8px 14px;
+      font: 14px "Segoe UI", sans-serif;
+      cursor: default;
+    }
+    .menu-bar button.active {
+      background: #ede9fe;
+      color: #5b21b6;
+    }
+    .nav-tabs {
+      display: flex;
+      gap: 4px;
+      border-bottom: 1px solid #d4d4d8;
+      padding-bottom: 0;
+    }
+    .nav-tabs button {
+      border: 1px solid transparent;
+      border-bottom: none;
+      background: #f4f4f5;
+      padding: 8px 16px;
+      border-radius: 8px 8px 0 0;
+      font: 14px "Segoe UI", sans-serif;
+    }
+    .nav-tabs button.active {
+      background: #fff;
+      border-color: #d4d4d8;
+      font-weight: 600;
+    }
+    .breadcrumbs {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      font-size: 14px;
+    }
+    .breadcrumbs a { color: #6b5ce7; text-decoration: none; }
+    .breadcrumbs span { color: #71717a; }
+    .pagination {
+      display: flex;
+      gap: 6px;
+    }
+    .page {
+      min-width: 32px;
+      height: 32px;
+      border: 1px solid #d4d4d8;
+      border-radius: 6px;
+      background: #fff;
+      font: 14px "Segoe UI", sans-serif;
+    }
+    .page.active {
+      background: #6b5ce7;
+      border-color: #6b5ce7;
+      color: #fff;
+      font-weight: 600;
+    }
+    .sidebar-layout {
+      display: grid;
+      grid-template-columns: 140px 1fr;
+      width: 420px;
+      border: 1px solid #d4d4d8;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .sidebar {
+      background: #f4f4f5;
+      border-right: 1px solid #d4d4d8;
+      padding: 8px;
+    }
+    .sidebar button {
+      display: block;
+      width: 100%;
+      text-align: left;
+      border: none;
+      background: transparent;
+      padding: 6px 8px;
+      border-radius: 6px;
+      margin-bottom: 4px;
+      font: 13px "Segoe UI", sans-serif;
+    }
+    .sidebar button.active {
+      background: rgba(107, 92, 231, 0.15);
+      color: #5b21b6;
+      font-weight: 600;
+    }
+    .main-pane {
+      padding: 12px;
+      min-height: 80px;
+    }
+    .footer {
+      display: flex;
+      gap: 16px;
+      padding: 10px 0;
+      border-top: 1px solid #d4d4d8;
+      color: #71717a;
+      font-size: 13px;
+    }
+    .toast {
+      padding: 10px 14px;
+      border-radius: 8px;
+      border-left: 4px solid #1976d2;
+      background: #e3f2fd;
+      color: #0d47a1;
+      font-size: 14px;
+    }
+    .hint {
+      font-size: 13px;
+      color: #71717a;
+      margin-top: 4px;
+    }
+    .tooltip-wrap {
+      position: relative;
+      display: inline-block;
+    }
+    .tooltip {
+      position: absolute;
+      bottom: calc(100% + 8px);
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 6px 10px;
+      background: #323232;
+      color: #fff;
+      border-radius: 6px;
+      font-size: 12px;
+      white-space: nowrap;
+    }
+    .context-menu {
+      width: 180px;
+      border: 1px solid #d4d4d8;
+      border-radius: 8px;
+      background: #fff;
+      box-shadow: 0 8px 24px rgba(0,0,0,.12);
+      padding: 4px 0;
+    }
+    .context-menu button {
+      display: block;
+      width: 100%;
+      text-align: left;
+      border: none;
+      background: transparent;
+      padding: 8px 14px;
+      font: 14px "Segoe UI", sans-serif;
+    }
+    .error-field {
+      border-color: #c62828 !important;
+    }
+    .error-text {
+      color: #c62828;
+      font-size: 13px;
+      margin-top: 4px;
+    }
+    .modal {
+      width: 340px;
+      padding: 20px;
+      border: 1px solid #d4d4d8;
+      border-radius: 12px;
+      background: #fff;
+      box-shadow: 0 12px 40px rgba(0,0,0,.15);
+    }
+    .modal-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+      margin-top: 16px;
+    }
+    .popup {
+      width: 280px;
+      padding: 14px;
+      border: 1px solid #d4d4d8;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0 8px 24px rgba(0,0,0,.12);
+    }
+    .alert {
+      width: 300px;
+      padding: 16px;
+      border: 1px solid #d4d4d8;
+      border-radius: 10px;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="shot" id="cap-image">
+    <button class="btn" type="button">Сохранить</button>
+    <button class="btn btn-secondary" type="button">Отмена</button>
+    <button class="btn btn-ghost" type="button">⚙</button>
+  </div>
+
+  <div class="shot" id="cap-image-1">
+    <input class="field" type="text" value="user@example.com" placeholder="Введите email" />
+  </div>
+
+  <div class="shot" id="cap-image-2">
+    <select class="select">
+      <option selected>Русский</option>
+      <option>English</option>
+      <option>Deutsch</option>
+    </select>
+  </div>
+
+  <div class="shot" id="cap-image-3">
+    <input class="range" type="range" min="0" max="100" value="60" />
+  </div>
+
+  <div class="shot" id="cap-image-4">
+    <button class="toggle" type="button" aria-label="Вкл"></button>
+  </div>
+
+  <div class="shot" id="cap-image-5">
+    <div class="checks">
+      <label><input type="checkbox" checked /> Выполненная задача</label>
+      <label><input type="checkbox" /> Невыполненная задача</label>
+      <label><input type="checkbox" /> Другая задача</label>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-6">
+    <div class="menu-bar">
+      <button class="active">Файл</button>
+      <button>Правка</button>
+      <button>Вид</button>
+      <button>Справка</button>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-7">
+    <div class="nav-tabs">
+      <button class="active">Главная</button>
+      <button>Каталог</button>
+      <button>Настройки</button>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-8">
+    <div class="breadcrumbs">
+      <a href="#">Главная</a><span>/</span>
+      <a href="#">Каталог</a><span>/</span>
+      <strong>Товар</strong>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-9">
+    <div class="pagination">
+      <button class="page">‹</button>
+      <button class="page active">1</button>
+      <button class="page">2</button>
+      <button class="page">3</button>
+      <button class="page">›</button>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-10">
+    <div class="sidebar-layout">
+      <div class="sidebar">
+        <button class="active">Раздел A</button>
+        <button>Раздел B</button>
+        <button>Раздел C</button>
+      </div>
+      <div class="main-pane">Контент страницы</div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-11">
+    <div class="sidebar-layout" style="grid-template-columns: 1fr 140px;">
+      <div class="main-pane">Основной контент</div>
+      <div class="sidebar" style="border-right:none;border-left:1px solid #d4d4d8;">
+        <button class="active">Фильтр 1</button>
+        <button>Фильтр 2</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-12">
+    <div class="footer">
+      <span>© 2026 Пример</span>
+      <span>Политика</span>
+      <span>Контакты</span>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-13">
+    <div class="toast">Файл успешно сохранён</div>
+  </div>
+
+  <div class="shot" id="cap-image-14">
+    <input class="field" type="text" placeholder="Email" />
+    <div class="hint">Используйте рабочий адрес для уведомлений</div>
+  </div>
+
+  <div class="shot" id="cap-image-15">
+    <div class="tooltip-wrap">
+      <button class="btn btn-ghost" type="button">Сохранить</button>
+      <div class="tooltip">Сохранить изменения</div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-16">
+    <div class="context-menu">
+      <button>Копировать</button>
+      <button>Вставить</button>
+      <button>Удалить</button>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-17">
+    <input class="field error-field" type="text" value="abc" />
+    <div class="error-text">Введите корректный email</div>
+  </div>
+
+  <div class="shot" id="cap-image-18">
+    <div class="modal">
+      <strong>Сохранить изменения?</strong>
+      <p style="margin:8px 0 0;font-size:13px;color:#52525b">Документ был изменён. Сохранить перед закрытием?</p>
+      <div class="modal-actions">
+        <button class="btn btn-secondary" type="button">Отмена</button>
+        <button class="btn" type="button">Сохранить</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-19">
+    <div class="popup">
+      <strong>Новая функция</strong>
+      <p style="margin:8px 0 0;font-size:13px;color:#52525b">Подробнее о возможностях сервиса.</p>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-20">
+    <div class="alert">
+      <strong>Внимание</strong>
+      <p style="margin:8px 0 12px;font-size:13px">Не удалось сохранить файл.</p>
+      <button class="btn" type="button">OK</button>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-21">
+    <div class="modal">
+      <strong>Удалить файл?</strong>
+      <p style="margin:8px 0 0;font-size:13px;color:#52525b">Действие нельзя отменить.</p>
+      <div class="modal-actions">
+        <button class="btn btn-secondary" type="button">Нет</button>
+        <button class="btn" type="button">Да</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

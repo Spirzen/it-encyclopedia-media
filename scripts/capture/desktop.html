@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <title>Desktop captures</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px;
+      background: #fff;
+      font: 13px/1.35 "Segoe UI", system-ui, sans-serif;
+      color: #1a1a1a;
+    }
+    .shot { display: inline-block; margin: 0 24px 24px 0; vertical-align: top; }
+    .window {
+      width: 520px;
+      border: 1px solid #adb5bd;
+      border-radius: 8px 8px 0 0;
+      overflow: hidden;
+      background: #fff;
+      box-shadow: 0 2px 8px rgba(0,0,0,.08);
+    }
+    .titlebar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 6px 10px;
+      background: linear-gradient(#f8f9fa, #e9ecef);
+      border-bottom: 1px solid #ced4da;
+      font-size: 12px;
+    }
+    .titlebar-btns { display: flex; gap: 6px; }
+    .titlebar-btns span {
+      width: 12px; height: 12px; border-radius: 2px;
+      border: 1px solid #adb5bd; background: #f8f9fa;
+      display: inline-flex; align-items: center; justify-content: center;
+      font-size: 10px;
+    }
+    .menubar {
+      display: flex;
+      gap: 2px;
+      padding: 2px 4px;
+      background: #f8f9fa;
+      border-bottom: 1px solid #dee2e6;
+    }
+    .menubar span { padding: 4px 10px; }
+    .toolbar {
+      display: flex;
+      gap: 4px;
+      padding: 6px;
+      background: #f1f3f5;
+      border-bottom: 1px solid #dee2e6;
+    }
+    .tool {
+      width: 28px; height: 28px;
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+      background: #fff;
+    }
+    .client {
+      min-height: 120px;
+      padding: 12px;
+      background: #fff;
+    }
+    .statusbar {
+      display: flex;
+      justify-content: space-between;
+      padding: 4px 8px;
+      background: #f1f3f5;
+      border-top: 1px solid #ced4da;
+      font-size: 12px;
+      color: #495057;
+    }
+    .scroll-wrap {
+      display: flex;
+      width: 180px;
+      height: 120px;
+      border: 1px solid #ced4da;
+    }
+    .scroll-content { flex: 1; padding: 8px; }
+    .scrollbar-v {
+      width: 16px;
+      background: #f1f3f5;
+      border-left: 1px solid #ced4da;
+      position: relative;
+    }
+    .scroll-thumb {
+      position: absolute;
+      top: 24px;
+      left: 2px;
+      right: 2px;
+      height: 40px;
+      background: #ced4da;
+      border-radius: 4px;
+    }
+    .tabs {
+      display: flex;
+      gap: 2px;
+      border-bottom: 1px solid #ced4da;
+      background: #f8f9fa;
+    }
+    .tabs span {
+      padding: 6px 14px;
+      border: 1px solid transparent;
+      border-bottom: none;
+      border-radius: 6px 6px 0 0;
+    }
+    .tabs span.active {
+      background: #fff;
+      border-color: #ced4da;
+      margin-bottom: -1px;
+    }
+    .label { font-size: 13px; margin-bottom: 4px; display: block; }
+    .textbox, .combo, .search {
+      width: 220px;
+      padding: 6px 8px;
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+      font: 13px "Segoe UI", sans-serif;
+    }
+    .btn {
+      padding: 6px 14px;
+      border: 1px solid #6c757d;
+      border-radius: 4px;
+      background: linear-gradient(#fff, #e9ecef);
+      font: 13px "Segoe UI", sans-serif;
+    }
+    .listbox {
+      width: 220px;
+      height: 88px;
+      border: 1px solid #ced4da;
+      overflow: auto;
+      background: #fff;
+    }
+    .listbox div { padding: 4px 8px; }
+    .listbox div.selected { background: #cfe2ff; }
+    .grid {
+      width: 280px;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+    .grid th, .grid td {
+      border: 1px solid #ced4da;
+      padding: 4px 8px;
+    }
+    .grid th { background: #f1f3f5; }
+    .checkbox { display: flex; align-items: center; gap: 8px; }
+    .progress {
+      width: 220px;
+      height: 18px;
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+      background: #fff;
+      overflow: hidden;
+    }
+    .progress > span {
+      display: block;
+      width: 55%;
+      height: 100%;
+      background: #0d6efd;
+    }
+  </style>
+</head>
+<body>
+  <div class="shot" id="cap-image-1">
+    <div class="window">
+      <div class="titlebar">
+        <span>Блокнот — demo.txt</span>
+        <div class="titlebar-btns"><span>—</span><span>□</span><span>×</span></div>
+      </div>
+      <div class="menubar">
+        <span>Файл</span><span>Правка</span><span>Формат</span><span>Вид</span><span>Справка</span>
+      </div>
+      <div class="toolbar"><div class="tool"></div><div class="tool"></div><div class="tool"></div></div>
+      <div class="client">Пример текста в области контента.</div>
+      <div class="statusbar"><span>Готов к работе</span><span>Стр 1, Col 1</span></div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-2">
+    <div class="window" style="width:420px">
+      <div class="titlebar">
+        <span>Блокнот — demo.txt</span>
+        <div class="titlebar-btns"><span>—</span><span>□</span><span>×</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-3">
+    <div class="window" style="width:420px">
+      <div class="titlebar"><span>Блокнот</span><div class="titlebar-btns"><span>×</span></div></div>
+      <div class="menubar"><span>Файл</span><span>Правка</span><span>Вид</span><span>Справка</span></div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-4">
+    <div class="window" style="width:420px">
+      <div class="titlebar"><span>Редактор</span><div class="titlebar-btns"><span>×</span></div></div>
+      <div class="menubar"><span>Файл</span><span>Правка</span></div>
+      <div class="toolbar"><div class="tool"></div><div class="tool"></div><div class="tool"></div><div class="tool"></div></div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-5">
+    <div class="window" style="width:420px">
+      <div class="titlebar"><span>Документ</span><div class="titlebar-btns"><span>×</span></div></div>
+      <div class="client" style="min-height:100px">Область контента приложения</div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-6">
+    <div class="statusbar" style="width:320px;border:1px solid #ced4da;border-radius:4px;">
+      <span>Готов к работе</span><span>100%</span>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-7">
+    <div class="scroll-wrap">
+      <div class="scroll-content">Длинный текст…</div>
+      <div class="scrollbar-v"><div class="scroll-thumb"></div></div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-8">
+    <div class="tabs" style="width:320px">
+      <span class="active">doc1.txt</span><span>doc2.txt</span><span>+</span>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-9">
+    <span class="label">Имя пользователя:</span>
+  </div>
+
+  <div class="shot" id="cap-image-10">
+    <input class="textbox" type="text" value="Пример текста" />
+  </div>
+
+  <div class="shot" id="cap-image-11">
+    <button class="btn" type="button">OK</button>
+  </div>
+
+  <div class="shot" id="cap-image-12">
+    <select class="combo">
+      <option>Вариант A</option>
+      <option selected>Вариант B</option>
+      <option>Вариант C</option>
+    </select>
+  </div>
+
+  <div class="shot" id="cap-image-13">
+    <div class="listbox">
+      <div class="selected">Элемент 1</div>
+      <div>Элемент 2</div>
+      <div>Элемент 3</div>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-14">
+    <label class="checkbox"><input type="checkbox" checked /> Включить опцию</label>
+  </div>
+
+  <div class="shot" id="cap-image-15">
+    <div class="progress"><span></span></div>
+  </div>
+
+  <div class="shot" id="cap-image-16">
+    <input class="search" type="search" placeholder="Поиск…" value="filter" />
+  </div>
+
+  <div class="shot" id="cap-image-18">
+    <div class="statusbar" style="width:280px;border:1px solid #ced4da;">
+      <span>Строка 12, столбец 4</span><span>INS</span>
+    </div>
+  </div>
+
+  <div class="shot" id="cap-image-20">
+    <table class="grid">
+      <tr><th>Имя</th><th>Значение</th></tr>
+      <tr><td>Alpha</td><td>1</td></tr>
+      <tr><td>Beta</td><td>2</td></tr>
+    </table>
+  </div>
+</body>
+</html>
