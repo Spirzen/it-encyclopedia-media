@@ -60,9 +60,9 @@
       position: absolute;
       left: 0;
       top: 0;
-      will-change: transform;
+      will-change: transform, opacity;
       cursor: pointer;
-      transition: filter 0.35s ease, opacity 0.35s ease;
+      transition: filter 0.35s ease;
     }
 
     .floater::before {
@@ -306,8 +306,11 @@
     const toast = document.getElementById('toast');
     let images = [];
     let floaters = [];
+    let spawnGen = 0;
     let mouse = { x: 0.5, y: 0.5 };
     let toastTimer;
+    const SPAWN_GAP_MS = 140;
+    const SPAWN_FADE_MS = 480;
 
     function showToast(msg) {
       toast.textContent = msg;
@@ -442,6 +445,7 @@
 
       const f = {
         el,
+        born: performance.now(),
         x: rand(0, window.innerWidth),
         y: rand(0, window.innerHeight),
         z: depth,
@@ -461,24 +465,61 @@
       floaters.push(f);
     }
 
-    function spawnFloaters() {
+    function resetFloaters() {
       layer.innerHTML = '';
       floaters = [];
-      if (!images.length) return;
+      statOrbit.textContent = '0';
+    }
+
+    function buildSpawnPlan() {
+      if (!images.length) return { pool: [], count: 0 };
 
       const pool = images.length < 8
         ? Array.from({ length: 28 }, () => pick(images))
         : images;
 
       const count = Math.min(56, Math.max(24, pool.length * 2));
-      statOrbit.textContent = String(count);
+      return { pool, count };
+    }
 
-      for (let i = 0; i < count; i++) {
-        createFloater(pick(pool), rand(0.25, 1));
+    function spawnGap() {
+      return new Promise((resolve) => setTimeout(resolve, SPAWN_GAP_MS));
+    }
+
+    async function spawnFloatersGradually() {
+      const gen = ++spawnGen;
+      resetFloaters();
+
+      const { pool, count } = buildSpawnPlan();
+      if (!count) return;
+
+      let spawned = 0;
+      let attempts = 0;
+      const maxAttempts = count * 3;
+
+      while (spawned < count && attempts < maxAttempts) {
+        if (gen !== spawnGen) return;
+        attempts += 1;
+
+        const entry = pick(pool);
+        try {
+          await preloadImage(entry.path);
+        } catch {
+          continue;
+        }
+        if (gen !== spawnGen) return;
+
+        createFloater(entry, rand(0.25, 1));
+        spawned += 1;
+        statOrbit.textContent = String(spawned);
+
+        if (spawned < count) {
+          await spawnGap();
+        }
       }
     }
 
-    function tickFloaters() {
+    function tickFloaters(t) {
       const mx = (mouse.x - 0.5) * 40;
       const my = (mouse.y - 0.5) * 40;
 
@@ -499,7 +540,8 @@
         const px = f.x + mx * f.z;
         const py = f.y + my * f.z + Math.sin(f.wobble) * 6;
         const scale = 0.55 + f.z * 0.55;
-        const opacity = 0.55 + f.z * 0.4;
+        const appear = Math.min(1, (t - f.born) / SPAWN_FADE_MS);
+        const opacity = (0.55 + f.z * 0.4) * appear;
 
         f.el.style.transform = `translate3d(${px}px, ${py}px, 0) rotate(${f.rot}deg) scale(${scale})`;
         f.el.style.opacity = opacity;
@@ -509,20 +551,8 @@
 
     function loop(t) {
       drawStars(t);
-      tickFloaters();
+      tickFloaters(t);
       requestAnimationFrame(loop);
-    }
-
-    async function auditMediaSample(paths, sampleSize = 24) {
-      if (!paths.length) return;
-      const sample = paths.length <= sampleSize
-        ? paths
-        : paths.sort(() => Math.random() - 0.5).slice(0, sampleSize);
-      const preloadResults = await Promise.allSettled(sample.map((p) => preloadImage(p)));
-      const failed = preloadResults.filter((r) => r.status === 'rejected').length;
-      if (failed > 0) {
-        showToast(`Проверка выборки: не загрузилось ${failed} из ${sample.length}`);
-      }
     }
 
     async function init() {
@@ -543,20 +573,17 @@
         statCount.textContent = String(images.length);
       }
 
-      spawnFloaters();
+      void spawnFloatersGradually();
       if (!images.length) {
         showToast('Библиотека пуста — добавьте файлы в public/encyclopedia/');
       }
-
-      const uniquePaths = [...new Set(images.map((item) => item.path))];
-      void auditMediaSample(uniquePaths);
     }
 
     let resizeTimer;
     window.addEventListener('resize', () => {
       resizeStars();
       clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(spawnFloaters, 200);
+      resizeTimer = setTimeout(() => void spawnFloatersGradually(), 200);
     });
 
     window.addEventListener('mousemove', (e) => {
