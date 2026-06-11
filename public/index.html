@@ -478,7 +478,7 @@
         ? Array.from({ length: 28 }, () => pick(images))
         : images;
 
-      const count = Math.min(56, Math.max(24, pool.length * 2));
+      const count = 55 + Math.floor(Math.random() * 45);
       return { pool, count };
     }
 
