@@ -29,13 +29,17 @@ public/encyclopedia/1-basics/1-08-kak-rabotaet-kompyuter/image-3.png
 
 ```
 public/encyclopedia/_shared/img/it-universe-architecture.png
+public/encyclopedia/_shared/img/bpmn/start-none.svg
 ```
+
+Иконки **BPMN 2.0** (52 SVG) — `public/encyclopedia/_shared/img/bpmn/`. Генерация: `node scripts/generate-bpmn-icons.mjs` (определения глифов — в соседнем `it-knowledge-base/src/data/bpmn/iconDefinitions.js`).
 
 URL в статье:
 
 ```markdown
 ![Описание](https://assets.spirzen.ru/encyclopedia/4-code-dev/4-02-chto-takoe-kod-i-kak-on-rabotaet/617/media-pilot-test.png)
 ![Архитектура](https://assets.spirzen.ru/encyclopedia/_shared/img/it-universe-architecture.png)
+![BPMN — старт](https://assets.spirzen.ru/encyclopedia/_shared/img/bpmn/start-none.svg)
 ```
 
 Миграция из `it-knowledge-base`: `node scripts/migrate-from-kb.mjs` (опция `--dry-run`).

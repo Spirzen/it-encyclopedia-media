@@ -1,8 +1,320 @@
 {
   "v": 1,
-  "generatedAt": "2026-06-11T15:57:18.635Z",
-  "count": 780,
+  "generatedAt": "2026-06-17T12:26:15.495Z",
+  "count": 832,
   "images": [
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/annotation.svg",
+      "name": "annotation.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 302
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/association.svg",
+      "name": "association.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 235
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/boundary-error.svg",
+      "name": "boundary-error.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 441
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/boundary-message.svg",
+      "name": "boundary-message.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 510
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/boundary-timer.svg",
+      "name": "boundary-timer.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 509
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/call-activity.svg",
+      "name": "call-activity.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 346
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/data-object.svg",
+      "name": "data-object.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 304
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/data-store.svg",
+      "name": "data-store.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 428
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/end-cancel.svg",
+      "name": "end-cancel.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 330
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/end-error.svg",
+      "name": "end-error.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 331
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/end-escalation.svg",
+      "name": "end-escalation.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 315
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/end-message.svg",
+      "name": "end-message.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 400
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/end-none.svg",
+      "name": "end-none.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 247
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/end-signal.svg",
+      "name": "end-signal.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 335
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/end-terminate.svg",
+      "name": "end-terminate.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 356
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/gateway-complex.svg",
+      "name": "gateway-complex.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 390
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/gateway-event-based.svg",
+      "name": "gateway-event-based.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 347
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/gateway-exclusive.svg",
+      "name": "gateway-exclusive.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 330
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/gateway-inclusive.svg",
+      "name": "gateway-inclusive.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 317
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/gateway-parallel.svg",
+      "name": "gateway-parallel.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 326
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/group.svg",
+      "name": "group.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 260
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-catch-conditional.svg",
+      "name": "intermediate-catch-conditional.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 309
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-catch-link.svg",
+      "name": "intermediate-catch-link.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 432
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-catch-message.svg",
+      "name": "intermediate-catch-message.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 425
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-catch-signal.svg",
+      "name": "intermediate-catch-signal.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 360
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-catch-timer.svg",
+      "name": "intermediate-catch-timer.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 424
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-throw-compensation.svg",
+      "name": "intermediate-throw-compensation.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 391
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-throw-escalation.svg",
+      "name": "intermediate-throw-escalation.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 340
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-throw-link.svg",
+      "name": "intermediate-throw-link.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 433
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-throw-message.svg",
+      "name": "intermediate-throw-message.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 425
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/intermediate-throw-signal.svg",
+      "name": "intermediate-throw-signal.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 360
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/lane.svg",
+      "name": "lane.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 314
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/message-flow.svg",
+      "name": "message-flow.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 493
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/pool.svg",
+      "name": "pool.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 397
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/sequence-flow.svg",
+      "name": "sequence-flow.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 388
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/start-conditional.svg",
+      "name": "start-conditional.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 286
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/start-message.svg",
+      "name": "start-message.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 402
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/start-multiple.svg",
+      "name": "start-multiple.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 345
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/start-none.svg",
+      "name": "start-none.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 249
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/start-signal.svg",
+      "name": "start-signal.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 337
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/start-timer.svg",
+      "name": "start-timer.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 401
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/subprocess-event.svg",
+      "name": "subprocess-event.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 354
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/subprocess-transaction.svg",
+      "name": "subprocess-transaction.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 341
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/subprocess.svg",
+      "name": "subprocess.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 350
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-business-rule.svg",
+      "name": "task-business-rule.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 391
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-manual.svg",
+      "name": "task-manual.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 405
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-none.svg",
+      "name": "task-none.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 253
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-receive.svg",
+      "name": "task-receive.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 484
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-script.svg",
+      "name": "task-script.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 361
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-send.svg",
+      "name": "task-send.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 479
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-service.svg",
+      "name": "task-service.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 380
+    },
+    {
+      "path": "/encyclopedia/_shared/img/bpmn/task-user.svg",
+      "name": "task-user.svg",
+      "article": "_shared/img/bpmn",
+      "bytes": 421
+    },
     {
       "path": "/encyclopedia/_shared/img/goland-debug-goroutines.png",
       "name": "goland-debug-goroutines.png",

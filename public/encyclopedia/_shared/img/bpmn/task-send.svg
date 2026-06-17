@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" role="img" aria-label="Send Task">
+<rect x="9" y="14" width="32" height="22" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5"/><rect x="14" y="21" width="8" height="6" rx="0.5" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><path d="M22 24h5" stroke="#1a1a1a" stroke-width="1.1"/><path d="M25 22l3 2-3 2" fill="none" stroke="#1a1a1a" stroke-width="1.1"/>
+</svg>
