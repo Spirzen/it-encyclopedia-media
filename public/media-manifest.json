@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generatedAt": "2026-06-17T12:26:15.495Z",
-  "count": 832,
+  "generatedAt": "2026-06-27T16:46:44.178Z",
+  "count": 835,
   "images": [
     {
       "path": "/encyclopedia/_shared/img/bpmn/annotation.svg",
@@ -316,6 +316,12 @@
       "bytes": 421
     },
     {
+      "path": "/encyclopedia/_shared/img/computers-kinds.png",
+      "name": "computers-kinds.png",
+      "article": "_shared/img",
+      "bytes": 12348
+    },
+    {
       "path": "/encyclopedia/_shared/img/goland-debug-goroutines.png",
       "name": "goland-debug-goroutines.png",
       "article": "_shared/img",
@@ -344,6 +350,12 @@
       "name": "it-universe-three-tier.png",
       "article": "_shared/img",
       "bytes": 67375
+    },
+    {
+      "path": "/encyclopedia/_shared/img/network-organization-scheme.png",
+      "name": "network-organization-scheme.png",
+      "article": "_shared/img",
+      "bytes": 31772
     },
     {
       "path": "/encyclopedia/_shared/img/visual-studio-calculator-csharp.png",
@@ -1136,6 +1148,12 @@
       "name": "3DBlender.png",
       "article": "1-basics/1-16-grafika",
       "bytes": 125956
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-17-audio-i-video/bandlab-drum-machine.png",
+      "name": "bandlab-drum-machine.png",
+      "article": "1-basics/1-17-audio-i-video",
+      "bytes": 75215
     },
     {
       "path": "/encyclopedia/1-basics/1-18-kompyuternye-igry/Contra.png",
