@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generatedAt": "2026-06-27T16:46:44.178Z",
-  "count": 835,
+  "generatedAt": "2026-07-02T18:40:34.678Z",
+  "count": 850,
   "images": [
     {
       "path": "/encyclopedia/_shared/img/bpmn/annotation.svg",
@@ -370,6 +370,48 @@
       "bytes": 104537
     },
     {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/2FA.png",
+      "name": "2FA.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 23362
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/accountsettings1.png",
+      "name": "accountsettings1.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 49646
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/accountsettings2.png",
+      "name": "accountsettings2.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 35271
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/androidfonts.png",
+      "name": "androidfonts.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 39386
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/androidnotif1.png",
+      "name": "androidnotif1.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 38802
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/androidperms.png",
+      "name": "androidperms.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 38538
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/androidsec.png",
+      "name": "androidsec.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 26464
+    },
+    {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/appdata.png",
       "name": "appdata.png",
       "article": "1-basics/1-035-bazovaya-informatika",
@@ -380,6 +422,12 @@
       "name": "backup.png",
       "article": "1-basics/1-035-bazovaya-informatika",
       "bytes": 13708
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/Bitwarden.avif",
+      "name": "Bitwarden.avif",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 79088
     },
     {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/contex_menu.png",
@@ -418,6 +466,12 @@
       "bytes": 52402
     },
     {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/deletingapp.png",
+      "name": "deletingapp.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 130983
+    },
+    {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/desktop.png",
       "name": "desktop.png",
       "article": "1-basics/1-035-bazovaya-informatika",
@@ -428,6 +482,12 @@
       "name": "diskC.png",
       "article": "1-basics/1-035-bazovaya-informatika",
       "bytes": 3945
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/ergonomics.png",
+      "name": "ergonomics.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 42488
     },
     {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/file1.png",
@@ -460,6 +520,12 @@
       "bytes": 89244
     },
     {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/Google-authenticator.png",
+      "name": "Google-authenticator.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 26080
+    },
+    {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/hidden1.png",
       "name": "hidden1.png",
       "article": "1-basics/1-035-bazovaya-informatika",
@@ -478,6 +544,18 @@
       "bytes": 181708
     },
     {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/notifsettings.png",
+      "name": "notifsettings.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 99970
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/passkeys.jpg",
+      "name": "passkeys.jpg",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 43678
+    },
+    {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/quick_and_fav.png",
       "name": "quick_and_fav.png",
       "article": "1-basics/1-035-bazovaya-informatika",
@@ -494,6 +572,12 @@
       "name": "run.png",
       "article": "1-basics/1-035-bazovaya-informatika",
       "bytes": 57399
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/Screenshot.png",
+      "name": "Screenshot.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 59882
     },
     {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/searchwin.png",
@@ -524,6 +608,12 @@
       "name": "tray.jpg",
       "article": "1-basics/1-035-bazovaya-informatika",
       "bytes": 12863
+    },
+    {
+      "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/updateandroid.png",
+      "name": "updateandroid.png",
+      "article": "1-basics/1-035-bazovaya-informatika",
+      "bytes": 37712
     },
     {
       "path": "/encyclopedia/1-basics/1-035-bazovaya-informatika/user.png",
