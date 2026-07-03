@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generatedAt": "2026-07-02T18:40:34.678Z",
-  "count": 850,
+  "generatedAt": "2026-07-03T12:46:33.620Z",
+  "count": 1069,
   "images": [
     {
       "path": "/encyclopedia/_shared/img/bpmn/annotation.svg",
@@ -356,6 +356,1320 @@
       "name": "network-organization-scheme.png",
       "article": "_shared/img",
       "bytes": 31772
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Airplane02Icon.svg",
+      "name": "Airplane02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1757
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Album02Icon.svg",
+      "name": "Album02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1123
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ArrowDataTransferHorizontalIcon.svg",
+      "name": "ArrowDataTransferHorizontalIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 612
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ArrowRight02Icon.svg",
+      "name": "ArrowRight02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 449
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ArrowRightBigIcon.svg",
+      "name": "ArrowRightBigIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 834
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ArrowTurnBackwardIcon.svg",
+      "name": "ArrowTurnBackwardIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 525
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/AtIcon.svg",
+      "name": "AtIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 639
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Award01Icon.svg",
+      "name": "Award01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1328
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/BatteryCharging01Icon.svg",
+      "name": "BatteryCharging01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1140
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/BatteryEmptyIcon.svg",
+      "name": "BatteryEmptyIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 882
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/BitcoinCircleIcon.svg",
+      "name": "BitcoinCircleIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 827
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Book02Icon.svg",
+      "name": "Book02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 773
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Bookmark02Icon.svg",
+      "name": "Bookmark02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 678
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Bug02Icon.svg",
+      "name": "Bug02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1538
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/CalculateIcon.svg",
+      "name": "CalculateIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1192
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/CalculatorIcon.svg",
+      "name": "CalculatorIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 918
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Calendar02Icon.svg",
+      "name": "Calendar02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 922
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Calendar03Icon.svg",
+      "name": "Calendar03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 954
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Call02Icon.svg",
+      "name": "Call02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1524
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Camera01Icon.svg",
+      "name": "Camera01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1672
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/CheckmarkCircle01Icon.svg",
+      "name": "CheckmarkCircle01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 510
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/CheckmarkSquare01Icon.svg",
+      "name": "CheckmarkSquare01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 700
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Clock01Icon.svg",
+      "name": "Clock01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 362
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/CloudIcon.svg",
+      "name": "CloudIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 707
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Comment01Icon.svg",
+      "name": "Comment01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 851
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Comment03Icon.svg",
+      "name": "Comment03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 480
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Cursor01Icon.svg",
+      "name": "Cursor01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1367
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Cursor02Icon.svg",
+      "name": "Cursor02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 677
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/DeliveryTruck01Icon.svg",
+      "name": "DeliveryTruck01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1167
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Discount01Icon.svg",
+      "name": "Discount01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1025
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/DiscountIcon.svg",
+      "name": "DiscountIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 2632
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Download01Icon.svg",
+      "name": "Download01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 832
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Download02Icon.svg",
+      "name": "Download02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 857
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Edit02Icon.svg",
+      "name": "Edit02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1100
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Exchange01Icon.svg",
+      "name": "Exchange01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 548
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/FavouriteIcon.svg",
+      "name": "FavouriteIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 516
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/File02Icon.svg",
+      "name": "File02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1060
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/FileEmpty01Icon.svg",
+      "name": "FileEmpty01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 850
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/FilterIcon.svg",
+      "name": "FilterIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 919
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/FingerAccessIcon.svg",
+      "name": "FingerAccessIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 825
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/FingerPrintIcon.svg",
+      "name": "FingerPrintIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 867
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Flag01Icon.svg",
+      "name": "Flag01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 559
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Flag02Icon.svg",
+      "name": "Flag02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 845
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/FlimSlateIcon.svg",
+      "name": "FlimSlateIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1219
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Folder01Icon.svg",
+      "name": "Folder01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 761
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Folder02Icon.svg",
+      "name": "Folder02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1073
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/GameController03Icon.svg",
+      "name": "GameController03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1336
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/GiftIcon.svg",
+      "name": "GiftIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1448
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/GlobalIcon.svg",
+      "name": "GlobalIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1100
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Globe02Icon.svg",
+      "name": "Globe02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 618
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/HardDriveIcon.svg",
+      "name": "HardDriveIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1094
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/HelpCircleIcon.svg",
+      "name": "HelpCircleIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 667
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Idea01Icon.svg",
+      "name": "Idea01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1548
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Image01Icon.svg",
+      "name": "Image01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 762
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Image03Icon.svg",
+      "name": "Image03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 992
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Infinity01Icon.svg",
+      "name": "Infinity01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 442
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/InformationCircleIcon.svg",
+      "name": "InformationCircleIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 539
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/InputLongTextIcon.svg",
+      "name": "InputLongTextIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1213
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/JavaIcon.svg",
+      "name": "JavaIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1570
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/LayerAddIcon.svg",
+      "name": "LayerAddIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1125
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/LayerIcon.svg",
+      "name": "LayerIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1033
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/LinkBackwardIcon.svg",
+      "name": "LinkBackwardIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 686
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Location01Icon.svg",
+      "name": "Location01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 677
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Location04Icon.svg",
+      "name": "Location04Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 903
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Login01Icon.svg",
+      "name": "Login01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 909
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/LoginSquare01Icon.svg",
+      "name": "LoginSquare01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 912
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Logout01Icon.svg",
+      "name": "Logout01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 895
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/LogoutSquare01Icon.svg",
+      "name": "LogoutSquare01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 938
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/LogoutSquare02Icon.svg",
+      "name": "LogoutSquare02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 976
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Mail01Icon.svg",
+      "name": "Mail01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 991
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MailAtSign01Icon.svg",
+      "name": "MailAtSign01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1323
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Mailbox01Icon.svg",
+      "name": "Mailbox01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1342
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MapsIcon.svg",
+      "name": "MapsIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1224
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MapsSquare01Icon.svg",
+      "name": "MapsSquare01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1207
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Menu01Icon.svg",
+      "name": "Menu01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 509
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Menu09Icon.svg",
+      "name": "Menu09Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 402
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Message01Icon.svg",
+      "name": "Message01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1108
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Message02Icon.svg",
+      "name": "Message02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1138
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MessageMultiple01Icon.svg",
+      "name": "MessageMultiple01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1786
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MessageMultiple02Icon.svg",
+      "name": "MessageMultiple02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1619
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Mic02Icon.svg",
+      "name": "Mic02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 510
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MicOff01Icon.svg",
+      "name": "MicOff01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 945
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MicrosoftAdminIcon.svg",
+      "name": "MicrosoftAdminIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 824
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MoreHorizontalCircle01Icon.svg",
+      "name": "MoreHorizontalCircle01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 759
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Mouse01Icon.svg",
+      "name": "Mouse01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 849
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Mouse02Icon.svg",
+      "name": "Mouse02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1409
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Mouse08Icon.svg",
+      "name": "Mouse08Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1497
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/MusicNote03Icon.svg",
+      "name": "MusicNote03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 799
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Navigation03Icon.svg",
+      "name": "Navigation03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 798
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/NewReleasesIcon.svg",
+      "name": "NewReleasesIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1859
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/NintendoSwitchIcon.svg",
+      "name": "NintendoSwitchIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1905
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Notification01Icon.svg",
+      "name": "Notification01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 790
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/NotificationBlock01Icon.svg",
+      "name": "NotificationBlock01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 993
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/NotificationOff01Icon.svg",
+      "name": "NotificationOff01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 946
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PackageIcon.svg",
+      "name": "PackageIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1193
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PackagingIcon.svg",
+      "name": "PackagingIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1288
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PaintBoardIcon.svg",
+      "name": "PaintBoardIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 830
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PaintBucketIcon.svg",
+      "name": "PaintBucketIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 825
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PassportIcon.svg",
+      "name": "PassportIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1023
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PauseCircleIcon.svg",
+      "name": "PauseCircleIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 375
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PauseIcon.svg",
+      "name": "PauseIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 809
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Pen01Icon.svg",
+      "name": "Pen01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 925
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PencilEdit02Icon.svg",
+      "name": "PencilEdit02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1016
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PencilIcon.svg",
+      "name": "PencilIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1068
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PenTool01Icon.svg",
+      "name": "PenTool01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 788
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PhysicsIcon.svg",
+      "name": "PhysicsIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1174
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PictureInPictureExitIcon.svg",
+      "name": "PictureInPictureExitIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 938
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PictureInPictureOnIcon.svg",
+      "name": "PictureInPictureOnIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 872
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PinIcon.svg",
+      "name": "PinIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1186
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PlayCircle02Icon.svg",
+      "name": "PlayCircle02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 584
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PlayIcon.svg",
+      "name": "PlayIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 644
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PlusMinus02Icon.svg",
+      "name": "PlusMinus02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 521
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PlusMinusSquare02Icon.svg",
+      "name": "PlusMinusSquare02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 716
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/PrinterIcon.svg",
+      "name": "PrinterIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1723
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Pulse01Icon.svg",
+      "name": "Pulse01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 313
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Quiz05Icon.svg",
+      "name": "Quiz05Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 2021
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/RecordIcon.svg",
+      "name": "RecordIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 266
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Recycle02Icon.svg",
+      "name": "Recycle02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 970
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Recycle03Icon.svg",
+      "name": "Recycle03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 635
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Refresh01Icon.svg",
+      "name": "Refresh01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 583
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/RefreshIcon.svg",
+      "name": "RefreshIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 447
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/RepairIcon.svg",
+      "name": "RepairIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1206
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/RepeatIcon.svg",
+      "name": "RepeatIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 725
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ReplayIcon.svg",
+      "name": "ReplayIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1026
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/RoboticIcon.svg",
+      "name": "RoboticIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1615
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Rotate01Icon.svg",
+      "name": "Rotate01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 448
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/RotateCropIcon.svg",
+      "name": "RotateCropIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 814
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/RssIcon.svg",
+      "name": "RssIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 847
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SatelliteIcon.svg",
+      "name": "SatelliteIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1185
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SaveMoneyDollarIcon.svg",
+      "name": "SaveMoneyDollarIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1279
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ScissorIcon.svg",
+      "name": "ScissorIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 866
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ScissorRectangleIcon.svg",
+      "name": "ScissorRectangleIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 923
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Search01Icon.svg",
+      "name": "Search01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 501
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SearchAddIcon.svg",
+      "name": "SearchAddIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 633
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SearchMinusIcon.svg",
+      "name": "SearchMinusIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 623
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SecurityIcon.svg",
+      "name": "SecurityIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1358
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SecurityValidationIcon.svg",
+      "name": "SecurityValidationIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1132
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ServerStack03Icon.svg",
+      "name": "ServerStack03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 2534
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Settings01Icon.svg",
+      "name": "Settings01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 2545
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Share01Icon.svg",
+      "name": "Share01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1064
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Share04Icon.svg",
+      "name": "Share04Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 731
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ShieldKeyIcon.svg",
+      "name": "ShieldKeyIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1121
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ShieldUserIcon.svg",
+      "name": "ShieldUserIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1007
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ShoppingBag01Icon.svg",
+      "name": "ShoppingBag01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 891
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ShoppingCart01Icon.svg",
+      "name": "ShoppingCart01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1363
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ShuffleIcon.svg",
+      "name": "ShuffleIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 943
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ShutDownIcon.svg",
+      "name": "ShutDownIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 542
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SignalFull01Icon.svg",
+      "name": "SignalFull01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1069
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Simcard02Icon.svg",
+      "name": "Simcard02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1178
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SmartPhone01Icon.svg",
+      "name": "SmartPhone01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 686
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Sorting01Icon.svg",
+      "name": "Sorting01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 862
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SourceCodeIcon.svg",
+      "name": "SourceCodeIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 701
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SparklesIcon.svg",
+      "name": "SparklesIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 895
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SpotifyIcon.svg",
+      "name": "SpotifyIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 577
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SquareArrowExpand01Icon.svg",
+      "name": "SquareArrowExpand01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 934
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SquareArrowShrink02Icon.svg",
+      "name": "SquareArrowShrink02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 922
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SquareLock01Icon.svg",
+      "name": "SquareLock01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1030
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SquareUnlock01Icon.svg",
+      "name": "SquareUnlock01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1022
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/StarAward01Icon.svg",
+      "name": "StarAward01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 2110
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/StarIcon.svg",
+      "name": "StarIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 914
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/StickyNote03Icon.svg",
+      "name": "StickyNote03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 856
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/StopIcon.svg",
+      "name": "StopIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 669
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Store01Icon.svg",
+      "name": "Store01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1423
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Structure01Icon.svg",
+      "name": "Structure01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1179
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/StudentIcon.svg",
+      "name": "StudentIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 912
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SunCloud02Icon.svg",
+      "name": "SunCloud02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1089
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/SystemUpdate01Icon.svg",
+      "name": "SystemUpdate01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 2781
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Tablet01Icon.svg",
+      "name": "Tablet01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 636
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Tag01Icon.svg",
+      "name": "Tag01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 966
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Tap08Icon.svg",
+      "name": "Tap08Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1151
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Target02Icon.svg",
+      "name": "Target02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 943
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Target03Icon.svg",
+      "name": "Target03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 817
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TaskDaily01Icon.svg",
+      "name": "TaskDaily01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1475
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TelegramIcon.svg",
+      "name": "TelegramIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1077
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ThirdBracketIcon.svg",
+      "name": "ThirdBracketIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 816
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ThumbsDownIcon.svg",
+      "name": "ThumbsDownIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1433
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ThumbsUpIcon.svg",
+      "name": "ThumbsUpIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1442
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Tick01Icon.svg",
+      "name": "Tick01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 328
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TickDouble01Icon.svg",
+      "name": "TickDouble01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 561
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TicTacToeIcon.svg",
+      "name": "TicTacToeIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 697
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TokenSquareIcon.svg",
+      "name": "TokenSquareIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1339
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ToolsIcon.svg",
+      "name": "ToolsIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1200
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Touch01Icon.svg",
+      "name": "Touch01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1010
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TouchInteraction01Icon.svg",
+      "name": "TouchInteraction01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1496
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Touchpad01Icon.svg",
+      "name": "Touchpad01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 3414
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TradeDownIcon.svg",
+      "name": "TradeDownIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 668
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TradeUpIcon.svg",
+      "name": "TradeUpIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 667
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TranslateIcon.svg",
+      "name": "TranslateIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1786
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TruckDeliveryIcon.svg",
+      "name": "TruckDeliveryIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1298
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Tv01Icon.svg",
+      "name": "Tv01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 628
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/TypeCursorIcon.svg",
+      "name": "TypeCursorIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 832
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Unarchive03Icon.svg",
+      "name": "Unarchive03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 896
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/UnavailableIcon.svg",
+      "name": "UnavailableIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 488
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Undo03Icon.svg",
+      "name": "Undo03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 534
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/UndoIcon.svg",
+      "name": "UndoIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 540
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Upload06Icon.svg",
+      "name": "Upload06Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 916
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/UsbMemory01Icon.svg",
+      "name": "UsbMemory01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1083
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/User02Icon.svg",
+      "name": "User02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 575
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/UserEdit01Icon.svg",
+      "name": "UserEdit01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 959
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/UserGroupIcon.svg",
+      "name": "UserGroupIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1380
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/UserMultiple03Icon.svg",
+      "name": "UserMultiple03Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 989
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/UserStatusIcon.svg",
+      "name": "UserStatusIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1046
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Video01Icon.svg",
+      "name": "Video01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 867
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ViewIcon.svg",
+      "name": "ViewIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 694
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/VolumeHighIcon.svg",
+      "name": "VolumeHighIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1091
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/VolumeLowIcon.svg",
+      "name": "VolumeLowIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 913
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/VolumeMute02Icon.svg",
+      "name": "VolumeMute02Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 847
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/VolumeOffIcon.svg",
+      "name": "VolumeOffIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1161
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/VrGlassesIcon.svg",
+      "name": "VrGlassesIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1846
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Wallet01Icon.svg",
+      "name": "Wallet01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1090
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/WechatIcon.svg",
+      "name": "WechatIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1172
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/WhatsappIcon.svg",
+      "name": "WhatsappIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1351
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/Wifi01Icon.svg",
+      "name": "Wifi01Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 742
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/WikipediaIcon.svg",
+      "name": "WikipediaIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 923
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/WindowsNewIcon.svg",
+      "name": "WindowsNewIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 666
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/WorkflowCircle04Icon.svg",
+      "name": "WorkflowCircle04Icon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1115
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/WorkIcon.svg",
+      "name": "WorkIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 1131
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ZoomInAreaIcon.svg",
+      "name": "ZoomInAreaIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 887
+    },
+    {
+      "path": "/encyclopedia/_shared/img/ui-icons/ZoomOutAreaIcon.svg",
+      "name": "ZoomOutAreaIcon.svg",
+      "article": "_shared/img/ui-icons",
+      "bytes": 748
     },
     {
       "path": "/encyclopedia/_shared/img/visual-studio-calculator-csharp.png",

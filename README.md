@@ -34,6 +34,8 @@ public/encyclopedia/_shared/img/bpmn/start-none.svg
 
 Иконки **BPMN 2.0** (52 SVG) — `public/encyclopedia/_shared/img/bpmn/`. Генерация: `node scripts/generate-bpmn-icons.mjs` (определения глифов — в соседнем `it-knowledge-base/src/data/bpmn/iconDefinitions.js`).
 
+Иконки **интерфейса** (Hugeicons, ~220 SVG) — `public/encyclopedia/_shared/img/ui-icons/`. Генерация: `node scripts/generate-ui-icons.mjs` или `npm run docs:ui-icons` в `it-knowledge-base` (список — `src/data/uiIconDefinitions.js`).
+
 URL в статье:
 
 ```markdown
